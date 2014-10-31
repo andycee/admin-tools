@@ -1,1 +1,0 @@
-psexec.exe -  нужно скопировать в папку %SYSTEMROOT%
