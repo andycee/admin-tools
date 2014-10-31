@@ -1,0 +1,1 @@
+psexec -u kaiserhof\1 -p 123123qweR \\wkai0027 \\skaidc02\install\Radmin\setup_radmin_msi.bat

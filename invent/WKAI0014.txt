@@ -1,0 +1,29 @@
+System information for \\WKAI0014:
+Uptime:                    Error reading uptime
+Kernel version:            Windows 7 Professional, Multiprocessor Free
+Product type:              Professional
+Product version:           6.1
+Service pack:              1
+Kernel build number:       7601
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\Windows
+Processors:                2
+Processor speed:           2.5 GHz
+Processor type:            Intel(R) Celeron(R) CPU        E3400  @
+Physical memory:           2048 MB
+Video driver:              ??????????? VGA ??????????? ???????
+Applications:
+
+BDE 5.01 Upgrade
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+MPC-HC 1.6.8 1.6.8.7417
+Microsoft Office Single Image 2010 14.0.6029.1000
+Microsoft Office, ??? ???? ? ??????? 2010 14.0.6029.1000
+Platform 1.34
+Radmin Server 3.4 3.41.0000
+SiSoftware Sandra Lite 2013.SP5 19.58.2013.9
+StoreHouse 4 (Client 4.71.178) 4.71.178
+Kaspersky Security Center 10.0.3361
+???????? Guardant 5.40.80

@@ -1,0 +1,847 @@
+System information for \\wkai00073.Kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   1
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           3.3 GHz
+Processor type:            Pentium(R) Dual-Core  CPU      E6800  @
+Physical memory:           2038 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+Acronis License Server 1.0.15
+Acronis True Image Echo Workstation 9.5.8076
+Adobe Reader XI - Russian 11.0.00
+Advanced Archive Password Recovery 4.54.55.1642
+Advanced IP Scanner 2.2.224
+AttachmentOptions 1.09.0000
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Libra OD Loyalty Client 11.8.0018
+Microsoft Office Standard 2007 12.0.6215.1000
+Nero 8 8.10.132
+NirSoft BlueScreenView
+Notepad++ 5.9
+OpenOffice.org 3.2 3.2.9505
+PDFCreator 1.5.0
+PowerBuilder 6.5 Deployment Kit
+PrintHelp, ?????? 3.0.0.1 3.0.0.1
+PuTTY version 0.62 0.62
+Radmin Server 3.2 3.20.0000
+Revo Uninstaller 1.94 1.94
+SMS AIR Sender 2.9.2
+SMS AIR Sender 2.9.2
+Skype? 6.10 6.10.104
+Star Micronics Printer Software Ver1.4 1.5.3
+VLC media player 1.1.11 1.1.11
+WebFldrs XP 9.50.7523
+WinDjView 1.0.3 1.0.3
+WinRAR 4.20 (32-bit) 4.20.0
+Windows Server 2003 Administration Tools Pack 5.2.3790
+Windows Support Tools 5.1.2600.2180
+Windows XP Service Pack 3 20080414.175805
+XnView 1.97.8 1.97.8
+neroxml 1.0.0
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai0003.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.5 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+BufferChm 100.0.170.000
+CustomerResearchQFolder 1.00.0000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+DocMgr 100.0.201.000
+DocProc 10.0.0.0
+FLV Player 2.0 
+Foxit Reader 2.3.2008.2822
+GPBaseService 100.0.187.000
+Guardant driver
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Customer Participation Program 10.0 10.0
+HP Document Manager 1.0 1.0
+HP Imaging Device Functions 10.0 10.0
+HP Solution Center 10.0 10.0
+HP Update 4.000.007.003
+HPProductAssistant 100.0.170.000
+HPSSupply 100.0.170.000
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Libra OD Loyalty Client 11.8.0018
+MSXML 6.0 Parser (KB933579) 6.10.1200.0
+MarketResearch 100.0.170.000
+Microsoft Office Standard 2007 12.0.4518.1014
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+TrayApp 100.0.170.000
+UnifiedPRIM 1.00.0023
+WebReg 100.0.170.000
+eSupportQFolder 1.00.0000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\wkai00071.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+2007 Microsoft Office system 12.0.4518.1014
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+StoreHouse 4 (Client 4.71.178) 4.71.178
+iBank 2 Key Driver 1.11 1.11.0000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai0013.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Genuine Intel(R) CPU            2140  @
+Physical memory:           1022 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+BDE 5.01 Upgrade
+KMnet Viewer 5.2.1525
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.6215.1000
+Radmin Server 3.2 3.20.0000
+StoreHouse 4 (Client 4.52.97) 4.52.97
+Kaspersky Security Center 10.0.3361
+???????? Guardant 6.00.101
+
+
+
+
+System information for \\wkai0005.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+2??? 3.13.11.0 3.13.11.0
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+BufferChm 100.0.170.000
+CorePLS_Min_QFolder 1.00.0000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+Guardant driver
+KMnet Viewer 5.0.1801
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+Np2009w 
+PowerBuilder 6.5 Deployment Kit
+Product_SF_Min_QFolder 1.00.0000
+Radmin Server 3.2 3.20.0000
+Rutoken Drivers 2.25.03.0267
+Scan 10.1.0.0
+TrayApp 100.0.170.000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\wkai0010.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Flash Player 11 Plugin 11.9.900.117
+Adobe Reader 7.0 - Russian 007.000.000
+CheckXML 
+CorePLS_Min_QFolder 1.00.0000
+Destination Component 090.000.091.086
+Foxit Reader 2.3.2008.2822
+HP LaserJet M1522 MFP Series 1.0 1.0
+HP LaserJet P2015 Series 1.0 1.0
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+Product_SF_Min_QFolder 1.00.0000
+Radmin Server 3.2 3.20.0000
+Scan 9.0.2.0
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\wkai00011.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.5 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Professional Hybrid 2007 12.0.4518.1014
+Microsoft Office Standard 2007 12.0.4518.1014
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai0033.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          User
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           3.2 GHz
+Processor type:            Intel(R) Celeron(R) D CPU
+Physical memory:           1016 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+Microsoft Office Standard 2007 12.0.4518.1014
+Radmin Server 3.2 3.20.0000
+Kaspersky Security Center 10.0.3361
+????????? WinRAR
+
+
+
+
+System information for \\wkai0026.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Celeron(R) M CPU        530  @
+Physical memory:           1016 MB
+Video driver:              Mobile Intel(R) 965 Express Chipset Family
+Applications:
+1C:Бухгалтерия 8.1 8.1.14
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+Ashampoo Burning Studio 6 FREE v.6.81 6.8.1
+BufferChm 100.0.170.000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+MSSQL CLient only 1.00
+Microsoft Office Standard 2007 12.0.4518.1014
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Scan 10.1.0.0
+Setting Regional 1.00
+TrayApp 100.0.170.000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai00777.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:Enterprise 8.1 8.1.15
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+ABBYY FineReader 9.0 Professional Edition 9.00.724.5507
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Kaspersky Security Center 10.0.3361
+
+
+
+System information for \\wkai0008.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+Archivarius 3000 (Version 4.38)
+BufferChm 100.0.170.000
+CustomerResearchQFolder 1.00.0000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+DocMgr 100.0.201.000
+DocProc 10.0.0.0
+Foxit Reader 2.3.2008.2822
+GPBaseService 100.0.187.000
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+MarketResearch 100.0.170.000
+Microsoft Office Standard 2007 12.0.4518.1014
+PDFCreator 1.2.3
+Radmin Server 3.2 3.20.0000
+STK02N 2.3 2.3
+Scan 10.1.0.0
+TrayApp 100.0.170.000
+WebReg 100.0.170.000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai0088.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          ?????? ??????
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+ConvertXtoDVD 3.0.0.13 3.0.0.13
+Free Audio Dub version 1.7.9.602
+Free Studio version 5.3.3
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.6215.1000
+Microsoft WinUsb 1.0
+PMC laser lens Cleaner V12
+PMP Transcoding Tool 0.9.7.0
+Radmin Server 3.2 3.20.0000
+RelevantKnowledge 1.3.336.320
+Ticno Indexator 0.0.2.5
+Ticno multibar 1.1.1.1
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\wkai0024.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Celeron(R) M CPU        530  @
+Physical memory:           1016 MB
+Video driver:              Mobile Intel(R) 965 Express Chipset Family
+Applications:
+1C:Бухгалтерия 8.2 (8.2.14.540) 8.2.14.540
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+MSVC80_x86_v2 1.0.3.0
+MSVC90_x86 1.0.1.2
+Microsoft Office Standard 2007 12.0.6215.1000
+Microsoft Outlook Personal Folders Backup 1.10.0.0
+OpenOffice.org 3.2 3.2.9505
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+VideoNet 8.5 8.5.0543
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai000777.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           1014 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+32 Bit HP CIO Components Installer 8.1.4
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+OpenOffice.org 3.2 3.2.9505
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wka0081.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.6215.1000
+Nero 7 Essentials 7.02.3307
+Radmin Server 3.2 3.20.0000
+Revo Uninstaller 1.94 1.94
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\WKAI0040:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   ??????? ????
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           998 MB
+Video driver:              Intel(R)  Q965/Q963 Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+BufferChm 100.0.170.000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Imaging Device Functions 10.0 10.0
+HP LaserJet M1522 MFP Series 4.0 4.0
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Active Management Technology LMS Service and SOL Driver
+Intel(R) Graphics Media Accelerator Driver
+Intel(R) Management Engine Interface
+Intel(R) PRO Network Connections Drivers
+Java Auto Updater 2.0.2.1
+Java(TM) 6 Update 20 6.0.200
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+OpenOffice.org 3.2 3.2.9505
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Radmin Viewer 3.4 3.40.0000
+Scan 10.1.0.0
+Setting Regional 1.00
+TrayApp 100.0.170.000
+UnifiedPRIM 1.00.0023
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai00200.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Setting Regional 1.00
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai001.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          admin
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Genuine Intel(R) CPU            2140  @
+Physical memory:           2046 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+Microsoft Office Standard 2007 12.0.4518.1014
+PDFCreator 1.2.3
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+
+
+
+
+System information for \\wkai0201.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.5 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+BufferChm 100.0.170.000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+PowerBuilder 6.5 Deployment Kit
+Psi (remove only)
+Radmin Server 3.2 3.20.0000
+Scan 10.1.0.0
+TrayApp 100.0.170.000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\wkai0011.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+Radmin Server 3.2 3.20.0000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\WKAI00111:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          Hotel Heliopark Kaiserhof
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           2.3 GHz
+Processor type:            AMD V140 Processor
+Physical memory:           1790 MB
+Video driver:              ATI Mobility Radeon HD 4200
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+BufferChm 100.0.170.000
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+OpenOffice.org 3.2 3.2.9505
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Psi (remove only)
+Radmin Server 3.2 3.20.0000
+Scan 10.1.0.0
+TrayApp 100.0.170.000
+Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai0007.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   ????????? ?????????
+Registered owner:          ??????
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              NVIDIA GeForce 8500 GT
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Standard 2007 12.0.4518.1014
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+SberSign 5.7.3 5.7.3
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\WKAI0027:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          User
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           2.6 GHz
+Processor type:            Intel(R) Celeron(R) CPU
+Physical memory:           510 MB
+Video driver:              NVIDIA GeForce 7300 GT 
+Applications:
+1C:Enterprise 8.1 8.1.15
+1C:Бухгалтерия 8.2 (8.2.13.205) 8.2.13.205
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Single Image 2010 14.0.4763.1000
+Microsoft Office, ??? ???? ? ??????? 2010 14.0.4763.1000
+Microsoft WinUsb 1.0
+OpenOffice.org 3.2 3.2.9505
+PDFCreator 1.1.0
+Picasa 3 3.9
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Setting Regional 1.00
+Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\WKAI0015:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           1014 MB
+Video driver:              NVIDIA GeForce 8500 GT
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+ABBYY FineReader 9.0 Professional Edition 9.00.724.5507
+CCI Epitome Control 3.0.08
+Libra CI 3.0.071
+Microsoft Office Standard 2007 12.0.6425.1000
+OpenOffice.org 3.4.1 3.41.9593
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Radmin Viewer 3.3 3.30.0000
+Scan 10.1.0.0
+Setting Regional 1.00
+Kaspersky Security Center 10.0.3361

@@ -1,0 +1,5 @@
+
+psexec @group2.txt  cmd
+
+
+C:\PsTools>psexec -u kaiserhof\1 -p 123123qqweRR @group2.txt  NET TIME \\10.0.14.8 /SET /YES

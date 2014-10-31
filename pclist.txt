@@ -1,0 +1,8 @@
+:: pclist.txt ::
+\\wkai0010
+\\wkai0011
+\\wkai0012
+\\wkai0013
+\\wkai0014
+\\wkai0015
+:: EOF pclist.txt ::

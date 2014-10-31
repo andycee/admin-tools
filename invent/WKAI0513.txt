@@ -1,0 +1,24 @@
+System information for \\WKAI0513:
+Uptime:                    Error reading uptime
+Kernel version:            Windows 7 Professional, Multiprocessor Free
+Product type:              Professional
+Product version:           6.1
+Service pack:              1
+Kernel build number:       7601
+Registered organization:   
+Registered owner:          User
+IE version:                9.0000
+System root:               C:\Windows
+Processors:                4
+Processor speed:           3.1 GHz
+Processor type:            Intel(R) Core(TM) i3-3210 CPU @
+Physical memory:           1744 MB
+Video driver:              Intel(R) HD Graphics
+Applications:
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft Office Single Image 2010 14.0.6029.1000
+Microsoft Office, ??? ???? ? ??????? 2010 14.0.6029.1000
+Radmin Server 3.4 3.41.0000
+Kaspersky Security Center 10.0.3361

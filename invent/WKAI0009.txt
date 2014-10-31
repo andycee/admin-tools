@@ -1,0 +1,24 @@
+System information for \\WKAI0009:
+Uptime:                    Error reading uptime
+Kernel version:            Windows 7 Professional, Multiprocessor Free
+Product type:              Professional
+Product version:           6.1
+Service pack:              0
+Kernel build number:       7601
+Registered organization:   
+Registered owner:          user
+IE version:                9.0000
+System root:               C:\Windows
+Processors:                2
+Processor speed:           2.7 GHz
+Processor type:            Intel(R) Pentium(R) CPU G630 @
+Physical memory:           2258 MB
+Video driver:              Intel(R) HD Graphics
+Applications:
+
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+BDE
+Microsoft SQL Server Compact 3.5 SP2 RUS 3.5.8080.0
+Radmin Server 3.4 3.41.0000
+StoreHouse 4 (Client 4.92.256) 4.92.256
+Kaspersky Security Center 10.0.3361

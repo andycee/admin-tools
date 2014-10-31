@@ -1,0 +1,1 @@
+@RunDLL32.exe shell32.dll,Control_RunDLL timedate.cpl,,/Z Kaliningrad Standard Time

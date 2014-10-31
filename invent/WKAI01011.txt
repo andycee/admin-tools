@@ -1,0 +1,29 @@
+System information for \\WKAI01011:
+Uptime:                    Error reading uptime
+Kernel version:            Windows 7 Professional, Multiprocessor Free
+Product type:              Professional
+Product version:           6.1
+Service pack:              1
+Kernel build number:       7601
+Registered organization:   
+Registered owner:          User
+IE version:                9.0000
+System root:               C:\Windows
+Processors:                2
+Processor speed:           2.3 GHz
+Processor type:            Intel(R) Celeron(R) CPU G530 @
+Physical memory:           2986 MB
+Video driver:              Intel(R) HD Graphics Family
+Applications:
+
+1C:Бухгалтерия 8.2 (8.2.17.169) 8.2.17.169
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+MSVC80_x86_v2 1.0.3.0
+MSVC90_x86 1.0.1.2
+Microsoft Office Single Image 2010 14.0.6029.1000
+Microsoft Office, ??? ???? ? ??????? 2010 14.0.6029.1000
+Microsoft_VC100_CRT_SP1_x86 10.0.40219.1
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.4 3.41.0000
+VideoNet 8.4 8.4.0041
+Kaspersky Security Center 10.0.3361

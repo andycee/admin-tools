@@ -1,0 +1,11 @@
+1. –асшариваем по сети папочку с дистрибом WinRAR:
+\\gildedgod\distrib\winrar
+2. —оздаем текстовый файл со списком машин, куда нужно поставить WinRAR:
+:: pklist.txt ::
+\\remote_computer_name_1
+\\remote_computer_name_2
+\\remote_computer_name_3
+:: EOF pklist.txt ::
+3. ¬ыполн€ем PSTools с параметрами:
+psexec.exe @pklist.txt -u user -p psswd -e -c -<priority> \\gildedgod\distrib\winrar\setup.exe /S
+¬се, имеем на всех машинах из списка WinRAR, установленный под учеткой user/psswd. ”становка пройдет в фоновом режиме - это задаетс€ параметром /S (свойство самого инсталл€тора WinRAR)

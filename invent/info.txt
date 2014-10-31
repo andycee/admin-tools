@@ -1,0 +1,2927 @@
+System information for \\wkai00073.Kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   1
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           3.3 GHz
+Processor type:            Pentium(R) Dual-Core  CPU      E6800  @
+Physical memory:           2038 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+1C:??????????? 8.1 8.1.15
+1C:??????????? 8.2 (8.2.13.205) 8.2.13.205
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+AMR Player 1.3
+Acronis License Server 1.0.15
+Acronis True Image Echo Workstation 9.5.8076
+Adobe AIR 3.8.0.1430
+Adobe AIR 3.8.0.1430
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Flash Player 11 Plugin 11.9.900.117
+Adobe Reader XI - Russian 11.0.00
+Advanced Archive Password Recovery 4.54.55.1642
+Advanced IP Scanner 2.2.224
+AttachmentOptions 1.09.0000
+High Definition Audio Driver Package - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+Java 7 Update 45 7.0.450
+Java Auto Updater 2.1.9.8
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Libra OD Loyalty Client 11.8.0018
+MSXML 4.0 SP3 Parser 4.30.2100.0
+MSXML 6.0 Parser (KB927977) 6.00.3890.0
+Microsoft .NET Framework 2.0 Service Pack 1 2.1.21022
+Microsoft .NET Framework 2.0 Service Pack 1 Language Pack - RUS 2.1.21022
+Microsoft .NET Framework 3.0 Service Pack 1 3.1.21022
+Microsoft .NET Framework 3.0 Service Pack 1 Language Pack - RUS 3.1.21022
+Microsoft .NET Framework 3.5 3.5.21022
+Microsoft .NET Framework 3.5
+Microsoft .NET Framework 3.5 Language Pack - rus 3.5.21022
+Microsoft Office Excel MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Outlook MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Proof (English) 2007 12.0.6213.1000
+Microsoft Office Proof (German) 2007 12.0.6213.1000
+Microsoft Office Proof (Russian) 2007 12.0.6213.1000
+Microsoft Office Proof (Ukrainian) 2007 12.0.6213.1000
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Standard 2007 12.0.6215.1000
+Microsoft Office Visio MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Visio Professional 2007 12.0.4518.1014
+Microsoft Office Visio ???????????????? 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office ??????????? 2007 12.0.6215.1000
+Microsoft Silverlight 5.1.20513.0
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.6215.1000
+Microsoft Visual C++ 2005 Redistributable 8.0.59193
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 9.0.21022
+Nero 8 8.10.132
+NirSoft BlueScreenView
+Notepad++ 5.9
+OpenOffice.org 3.2 3.2.9505
+PDFCreator 1.5.0
+PowerBuilder 6.5 Deployment Kit
+PrintHelp, ?????? 3.0.0.1 3.0.0.1
+PuTTY version 0.62 0.62
+REALTEK GbE & FE Ethernet PCI-E NIC Driver 1.23.0000
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver 5.10.0.5859
+Revo Uninstaller 1.94 1.94
+SMS AIR Sender 2.9.2
+SMS AIR Sender 2.9.2
+Shrew Soft VPN Client
+Skype? 6.10 6.10.104
+Star Micronics Printer Software Ver1.4 1.5.3
+The KMPlayer (remove only)
+VCRedistSetup 1.0.0
+VLC media player 1.1.11 1.1.11
+WebFldrs XP 9.50.7523
+WinDjView 1.0.3 1.0.3
+WinRAR 4.20 (32-bit) 4.20.0
+Windows Imaging Component 3.0.0.0
+Windows Internet Explorer 8 20090308.140743
+Windows Media Format Runtime
+Windows Server 2003 Administration Tools Pack 5.2.3790
+Windows Support Tools 5.1.2600.2180
+Windows XP Service Pack 3 20080414.175805
+XML Paper Specification Shared Components Language Pack 1.0
+XML Paper Specification Shared Components Pack 1.0
+XnView 1.97.8 1.97.8
+neroxml 1.0.0
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+?????? ???????????? ??????? ???.????? 1.0.13.01 1.0.13.01
+???????? ????? Microsoft .NET Framework 3.5 ? RUS
+
+
+
+
+
+System information for \\wkai0003.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.5 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+Adobe Flash Player 10 ActiveX 10.3.181.14
+Adobe Flash Player 11 Plugin 11.1.102.63
+Adobe Reader 7.0 - Russian 007.000.000
+BufferChm 100.0.170.000
+CustomerResearchQFolder 1.00.0000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+DocMgr 100.0.201.000
+DocProc 10.0.0.0
+FLV Player 2.0 
+Foxit Reader 2.3.2008.2822
+GPBaseService 100.0.187.000
+Guardant driver
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Customer Participation Program 10.0 10.0
+HP Document Manager 1.0 1.0
+HP Imaging Device Functions 10.0 10.0
+HP Solution Center 10.0 10.0
+HP Update 4.000.007.003
+HPProductAssistant 100.0.170.000
+HPSSupply 100.0.170.000
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Libra OD Loyalty Client 11.8.0018
+MSXML 6.0 Parser (KB933579) 6.10.1200.0
+MarketResearch 100.0.170.000
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Hotfix (KB886903)
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Scan 10.1.0.0
+Setting Regional 1.00
+Shop for HP Supplies 10.0
+SolutionCenter 100.0.175.000
+The KMPlayer (remove only)
+TrayApp 100.0.170.000
+UnifiedPRIM 1.00.0023
+WebFldrs XP 9.50.7523
+WebReg 100.0.170.000
+Windows Imaging Component 3.0.0.0
+Windows XP Service Pack 3 20080414.175805
+eSupportQFolder 1.00.0000
+hppCLJCM2320 001.000.00071
+hppFaxDrvCM2320 001.000.00068
+hppFaxUtilityCM2320 001.000.00069
+hppFonts 001.001.00061
+hppManualsCM2320 001.000.00071
+hppPQVideoCM2320 001.000.00070
+hppQFolderCM2320 1.00.0000
+hppScanToCM2320 001.000.00068
+hppSendFaxCM2320 001.000.00070
+hppTLBXFXCM2320 001.016.00046
+hppscan3390 001.102.00071
+hppscanCM2320 001.000.00071
+hppusgCM2320 000.000.00009
+hpzTLBXFX 004.017.00154
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\wkai00071.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:??????????? 8.1 8.1.15
+1C:??????????? 8.2 8.2.13.205
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+2007 Microsoft Office system 12.0.4518.1014
+Adobe Reader 7.0 - Russian 007.000.000
+AlterGeo Magic Scanner 3.3.2.779
+Google Chrome 30.0.1599.101
+Google Update Helper 1.3.21.165
+Guard.Mail.ru
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+Java 7 Update 25 7.0.250
+Java Auto Updater 2.1.9.5
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.0713
+Mail.Ru ????? 5.9 (?????? 4847, ??? ???? ?????????????)
+Mail.Ru ??????? 2.4.0.410
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft Office Access MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Professional Hybrid 2007 12.0.4518.1014
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Publisher MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+StoreHouse 4 (Client 4.71.178) 4.71.178
+Update for Office 2007 (KB934528)
+Update for Office System 2007 Setup (KB929722)
+WebFldrs XP 9.50.7523
+Windows XP Service Pack 3 20080414.175805
+iBank 2 Key Driver 1.11 1.11.0000
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+?????????? 2009
+?????????? 2010
+?????? ?? ? PDF417 3.0.29 (?????) 3.0.29
+
+
+
+
+
+System information for \\wkai0013.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Genuine Intel(R) CPU            2140  @
+Physical memory:           1022 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:??????????? 8.1 8.1.14
+1C:??????????? 8.2 (8.2.13.205) 8.2.13.205
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+Adobe Reader 7.0 - Russian 007.000.000
+BDE 5.01 Upgrade
+Foxit Reader 2.3.2008.2822
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Java Auto Updater 2.0.6.1
+Java(TM) 6 Update 30 6.0.300
+KMnet Viewer 5.2.1525
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.0713
+MSXML 6.0 Parser (KB933579) 6.10.1200.0
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Hotfix (KB886903)
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Office Excel MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Outlook MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Proof (English) 2007 12.0.6213.1000
+Microsoft Office Proof (German) 2007 12.0.6213.1000
+Microsoft Office Proof (Russian) 2007 12.0.6213.1000
+Microsoft Office Proof (Ukrainian) 2007 12.0.6213.1000
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Standard 2007 12.0.6215.1000
+Microsoft Office Word MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office ??????????? 2007 12.0.6215.1000
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.6215.1000
+Mozilla Firefox (3.0.19) 3.0.19 (ru)
+NVIDIA Drivers
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+StoreHouse 4 (Client 4.52.97) 4.52.97
+WebFldrs XP 9.50.7523
+Windows Driver Package - Intel net  (02/14/2007 9.1.1.13) 02/14/2007 9.1.1.13
+Windows Driver Package - Intel net  (02/25/2007 11.1.0.86) 02/25/2007 11.1.0.86
+Windows Driver Package - Intel net  (02/25/2007 11.1.0.86) 02/25/2007 11.1.0.86
+Windows Imaging Component 3.0.0.0
+Windows XP Service Pack 3 20080414.175805
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+???????? Guardant 6.00.101
+
+
+
+
+System information for \\wkai0005.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:??????????? 8.1 8.1.14
+1C:??????????? 8.2 (8.2.13.205) 8.2.13.205
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+2??? 3.13.11.0 3.13.11.0
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+ABBYY FineReader 9.0 Professional Edition 9.00.724.5507
+Adobe Flash Player 11 ActiveX 11.1.102.55
+Adobe Reader 9.5.5 - Russian 9.5.5
+BufferChm 100.0.170.000
+CorePLS_Min_QFolder 1.00.0000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+Foxit Reader 2.3.2008.2822
+Guardant driver
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Imaging Device Functions 10.0 10.0
+HP LaserJet P2015 Series 1.0 1.0
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+KMnet Viewer 5.0.1801
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Kyocera TWAIN Driver 1.7.0615
+Kyocera TWAIN Driver 1.7.0615
+MSXML 4.0 SP2 (KB927978) 4.20.9841.0
+MSXML 6 Service Pack 2 (KB954459) 6.20.1099.0
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Hotfix (KB886903)
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 2.0 Service Pack 2 Language Pack - RUS 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 Language Pack - RUS 3.2.30729
+Microsoft .NET Framework 3.5 Language Pack SP1 - rus 3.5.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Mozilla Firefox 7.0 (x86 ru) 7.0
+Nokia Connectivity Cable Driver 6.85.9.0
+Np2009w 
+PowerBuilder 6.5 Deployment Kit
+Product_SF_Min_QFolder 1.00.0000
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Rutoken Drivers 2.25.03.0267
+Scan 10.1.0.0
+The KMPlayer (remove only)
+TrayApp 100.0.170.000
+Update for Microsoft .NET Framework 3.5 SP1 (KB963707) 1
+WebFldrs XP 9.50.7523
+Windows Imaging Component 3.0.0.0
+Windows XP Service Pack 3 20080414.175805
+XML Paper Specification Shared Components Language Pack 1.0
+hppCLJCM2320 001.000.00071
+hppFaxUtilityCM2320 001.000.00069
+hppFonts 000.106.00040
+hppIOFiles 001.001.00024
+hppManualsCM2320 001.000.00071
+hppManualsP2015 000.104.00210
+hppQFolderCM2320 1.00.0000
+hppScanToCM2320 001.000.00068
+hppWebRegMM 000.001.00001
+hppscanCM2320 001.000.00071
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+?????? 2??? ?.??????????? 01.11.2013 33.0.0
+??????????? ??? Windows XP (KB2570791) 1
+??????????? ??? Windows XP (KB961118) 1
+?????????? «??????-???????» 1.1.3
+?????? ?? ? PDF417 3.0.8 3.0.8
+???????? ????? Microsoft .NET Framework 3.5 SP1 ? RUS
+
+
+
+
+
+System information for \\wkai0010.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Flash Player 11 Plugin 11.9.900.117
+Adobe Reader 7.0 - Russian 007.000.000
+CheckXML 
+CorePLS_Min_QFolder 1.00.0000
+Destination Component 090.000.091.086
+Foxit Reader 2.3.2008.2822
+HP LaserJet M1522 MFP Series 1.0 1.0
+HP LaserJet P2015 Series 1.0 1.0
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+MSXML 4.0 SP2 (KB927978) 4.20.9841.0
+MSXML 6 Service Pack 2 (KB954459) 6.20.1099.0
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Hotfix (KB886903)
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 2.0 Service Pack 2 Language Pack - RUS 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 Language Pack - RUS 3.2.30729
+Microsoft .NET Framework 3.5 Language Pack SP1 - rus 3.5.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Mozilla Firefox 25.0 (x86 ru) 25.0
+Mozilla Maintenance Service 25.0
+PokerStars
+Product_SF_Min_QFolder 1.00.0000
+REALTEK GbE & FE Ethernet PCI-E NIC Driver 1.28.0000
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Samsung SCX-4200 Series
+Scan 9.0.2.0
+The KMPlayer (remove only)
+Update for Microsoft .NET Framework 3.5 SP1 (KB963707) 1
+WebFldrs XP 9.50.7523
+Windows Imaging Component 3.0.0.0
+Windows XP Service Pack 3 20080414.175805
+XML Paper Specification Shared Components Language Pack 1.0
+XnView 1.97.8 1.97.8
+hppFonts 000.106.00040
+hppIOFiles 001.001.00024
+hppManualsP2015 000.104.00210
+hppWebRegMM 000.001.00001
+hppscanM1522 000.008.00074
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+???????? ????? Microsoft .NET Framework 3.5 SP1 ? RUS
+
+
+
+
+
+System information for \\wkai00011.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.5 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+2007 Microsoft Office system 12.0.4518.1014
+7-Zip 9.20
+Adobe Reader 9.4.0 - Russian 9.4.0
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft Office Access MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Professional Hybrid 2007 12.0.4518.1014
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Publisher MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+The KMPlayer (remove only)
+Update for Office 2007 (KB934528)
+Update for Office System 2007 Setup (KB929722)
+WebFldrs XP 9.50.7523
+Windows XP Service Pack 3 20080414.175805
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai0033.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          User
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           3.2 GHz
+Processor type:            Intel(R) Celeron(R) D CPU
+Physical memory:           1016 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+Adobe Flash Player 10 Plugin 10.3.183.67
+Adobe Flash Player 11 ActiveX 11.3.300.257
+Adobe Reader X (10.1.8) - Russian 10.1.8
+Ask Toolbar 1.13.0.0
+BurnAware Free 4.4
+ConvertXtoDVD 3.0.0.13 3.0.0.13
+Free Studio version 5.4.6 5.4.6
+Guard@Mail.Ru 1.0.0.545
+HashTab 2.3.0 3.0.0
+Hotfix for Windows XP (KB958655-v2) 2
+Html5 geolocation provider 3.5.4.872
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+MSXML 4.0 SP3 Parser (KB973685) 4.30.2107.0
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Security Update (KB2416447)
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False 8.0.50727.42
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False 8.0.51011
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False 8.0.56336
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False 8.0.59193
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001 8.0.61001
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 False 9.0.21022
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False 9.0.21022
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False 9.0.21022.218
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False 9.0.30411
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False 9.0.30729
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False 9.0.30729
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False 9.0.30729.4148
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False 9.0.30729.5570
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 9.0.30729.6161
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.30319 False 10.0.30319
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219 10.0.40219
+Mp3tag v2.47a v2.47a
+Opera 12.14 12.14.1738
+Opera 12.16 12.16.1860
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver 5.10.0.5345
+SmilesExtensions version 2.1 2.1
+Update for Html5 geolocation provider 3.6.2.901
+VLC media player 2.0.1 2.0.1
+WebFldrs XP 9.50.7523
+Windows Genuine Advantage Validation Tool (KB892130) 1.9.0042.0
+µTorrent 3.3.0.29126
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????????? WinRAR
+??????? ????? ?????????? ?????? ???????????? ?????-???? (Microsoft)
+????? Windows Feature Pack for Storage (32-?????????) - ?????????? IMAPI ??? Blu-Ray 1.0
+???????@Mail.Ru 2.4.1.206
+
+
+
+
+
+System information for \\wkai0026.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Celeron(R) M CPU        530  @
+Physical memory:           1016 MB
+Video driver:              Mobile Intel(R) 965 Express Chipset Family
+Applications:
+1C:??????????? 8.1 8.1.14
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Flash Player 11 Plugin 11.9.900.117
+Adobe Reader 9.5.1 - Russian 9.5.1
+Agere Systems HDA Modem
+Apple Application Support 2.1.7
+Apple Mobile Device Support 5.1.1.4
+Apple Software Update 2.1.3.127
+Ashampoo Burning Studio 6 FREE v.6.81 6.8.1
+Bonjour 3.0.0.10
+BufferChm 100.0.170.000
+Compatibility Pack for the 2007 Office system 12.0.6021.5000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+Google Chrome 30.0.1599.101
+Google Toolbar for Internet Explorer 7.5.4601.54
+Google Toolbar for Internet Explorer 1.0.0
+Google Update Helper 1.3.21.165
+Guard@Mail.Ru 1.0.0.598
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Imaging Device Functions 10.0 10.0
+HP LaserJet M1522 MFP Series 1.0 1.0
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+ICQ6.5 6.5
+Intel(R) Graphics Media Accelerator Driver
+Intel(R) Matrix Storage Manager
+Intel(R) PRO Network Connections Drivers
+MSSQL CLient only 1.00
+MSXML 6.0 Parser (KB933579) 6.10.1200.0
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Compression Client Pack 1.0 for Windows XP 1
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.5
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.9
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Microsoft User-Mode Driver Framework Feature Pack 1.0
+MobileMe Control Panel 3.1.8.0
+Mozilla Firefox 24.0 (x86 ru) 24.0
+Mozilla Maintenance Service 24.0
+PowerBuilder 6.5 Deployment Kit
+QuickTime 7.71.80.42
+Radmin Server 3.2 3.20.0000
+Safari 5.34.54.16
+Scan 10.1.0.0
+Setting Regional 1.00
+Skype Click to Call 6.4.11328
+Skype? 3.8 3.8.154
+Skype? 4.2 4.2.169
+Skype? 5.5 5.5.124
+Skype? 6.9 6.9.106
+SoundMAX 5.10.01.5220
+The KMPlayer (remove only)
+TrayApp 100.0.170.000
+WebFldrs XP 9.50.7523
+Winamp 5.54 
+Windows Imaging Component 3.0.0.0
+Windows Media Format 11 runtime
+Windows Media Format 11 runtime
+Windows Media Player 11
+Windows XP Service Pack 3 20080414.175805
+XnView 1.97.8 1.97.8
+hppCLJCM2320 001.000.00071
+hppFaxUtilityCM2320 001.000.00069
+hppManualsCM2320 001.000.00071
+hppQFolderCM2320 1.00.0000
+hppScanToCM2320 001.000.00068
+hppscanCM2320 001.000.00071
+hppscanM1522 000.008.00074
+iTunes 10.6.0.40
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+??????? ???????????? ????????? ???? Broadcom 802.11 4.170.25.12
+????????? ??????????? 6.0 ??? Windows Workstations 6.0.4.1424
+????????????? Windows Media 11
+???????@Mail.Ru 2.4.1.288
+
+
+
+
+
+System information for \\wkai00777.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+1C:Enterprise 8.1 8.1.15
+1C:??????????? 8.2 (8.2.13.205) 8.2.13.205
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+2007 Microsoft Office system 12.0.4518.1014
+2??? 3.13.11.0 3.13.11.0
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+ABBYY FineReader 9.0 Professional Edition 9.00.724.5507
+Activation Assistant for the 2007 Microsoft Office suites 1.0
+Activation Assistant for the 2007 Microsoft Office suites
+Adobe Flash Player 11 Plugin 11.1.102.55
+Adobe Reader X (10.1.7) - Russian 10.1.7
+Guard.Mail.Ru
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+Java 7 Update 21 7.0.210
+Java Auto Updater 2.1.9.5
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Mail.Ru ??????? 2.4.0.270
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft Office Access MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Professional Hybrid 2007 12.0.4518.1014
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Publisher MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Mozilla Firefox 25.0 (x86 ru) 25.0
+Mozilla Maintenance Service 25.0
+NVIDIA Drivers
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+The KMPlayer (remove only)
+Update for Office 2007 (KB934528)
+Update for Office System 2007 Setup (KB929722)
+WebFldrs XP 9.50.7523
+Windows XP Service Pack 3 20080414.175805
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+?????? 2??? ?.??????????? 01.11.2013 33.0.0
+
+
+
+
+System information for \\wkai0008.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:           
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+7-Zip 9.20
+Adobe Flash Player 10 Plugin 10.0.32.18
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Reader 7.0 - Russian 007.000.000
+Archivarius 3000 (Version 4.38)
+BufferChm 100.0.170.000
+CustomerResearchQFolder 1.00.0000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+DocMgr 100.0.201.000
+DocProc 10.0.0.0
+Foxit Reader 2.3.2008.2822
+GPBaseService 100.0.187.000
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Customer Participation Program 10.0 10.0
+HP Document Manager 1.0 1.0
+HP Imaging Device Functions 10.0 10.0
+HP Solution Center 10.0 10.0
+HPProductAssistant 100.0.170.000
+HPSSupply 100.0.170.000
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Java Auto Updater 2.0.6.1
+Java(TM) 6 Update 29 6.0.290
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+MSI to redistribute MS VS2005 CRT libraries 8.0.50727.42
+MSXML 6 Service Pack 2 (KB954459) 6.20.1099.0
+MarketResearch 100.0.170.000
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Hotfix (KB886903)
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 2.0 Service Pack 2 Language Pack - RUS 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 Language Pack - RUS 3.2.30729
+Microsoft .NET Framework 3.5 Language Pack SP1 - rus 3.5.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Compression Client Pack 1.0 for Windows XP 1
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Microsoft User-Mode Driver Framework Feature Pack 1.0
+Mozilla Firefox (3.6.13) 3.6.13 (ru)
+PDFCreator 1.2.3
+PokerStars
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+STK02N 2.3 2.3
+Scan 10.1.0.0
+Shop for HP Supplies 10.0
+SolutionCenter 100.0.175.000
+The KMPlayer (remove only)
+TrayApp 100.0.170.000
+Update for Microsoft .NET Framework 3.5 SP1 (KB963707) 1
+VLC media player 1.1.9 1.1.9
+WebFldrs XP 9.50.7523
+WebReg 100.0.170.000
+Windows Imaging Component 3.0.0.0
+Windows Internet Explorer 8 20090308.140743
+Windows Media Format 11 runtime
+Windows Media Format 11 runtime
+Windows Media Player 11
+Windows XP Service Pack 3 20080414.175805
+XML Paper Specification Shared Components Language Pack 1.0
+XnView 1.98.7 1.98.7
+eSupportQFolder 1.00.0000
+hppCLJCM2320 001.000.00071
+hppFaxDrvCM2320 001.000.00068
+hppFaxUtilityCM2320 001.000.00069
+hppFonts 001.001.00061
+hppManualsCM2320 001.000.00071
+hppPQVideoCM2320 001.000.00070
+hppQFolderCM2320 1.00.0000
+hppScanToCM2320 001.000.00068
+hppSendFaxCM2320 001.000.00070
+hppTLBXFXCM2320 001.016.00046
+hppscan3390 001.102.00071
+hppscanCM2320 001.000.00071
+hppusgCM2320 000.000.00009
+hpzTLBXFX 004.017.00154
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????????????? Windows Media 11
+???????? ????? Microsoft .NET Framework 3.5 SP1 ? RUS
+
+
+
+
+
+System information for \\wkai0088.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          ?????? ??????
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+7-Zip 9.20
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Flash Player 11 Plugin 11.9.900.117
+Adobe Reader 8.1.2 8.1.2
+Ask Toolbar 1.15.25.0
+Bluesoleil2.6.0.8 Release 070517 2.6.0.8 Release 070517
+BurnAware Free 3.0.4
+ConvertXtoDVD 3.0.0.13 3.0.0.13
+Free Audio Dub version 1.7.9.602
+Free Studio version 5.3.3
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Windows XP (KB915800-v4) 4
+Html5 geolocation provider 3.5.4.872
+Intel(R) Graphics Media Accelerator Driver
+K-Lite Codec Pack 8.7.0 (Basic) 8.7.0
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.7
+Microsoft Office Excel MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Outlook MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Proof (English) 2007 12.0.6213.1000
+Microsoft Office Proof (German) 2007 12.0.6213.1000
+Microsoft Office Proof (Russian) 2007 12.0.6213.1000
+Microsoft Office Proof (Ukrainian) 2007 12.0.6213.1000
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Standard 2007 12.0.6215.1000
+Microsoft Office Word MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office ??????????? 2007 12.0.6215.1000
+Microsoft Silverlight 4.0.60310.0
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.6215.1000
+Microsoft User-Mode Driver Framework Feature Pack 1.7
+Microsoft Visual C++ 2005 Redistributable 8.0.56336
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 9.0.21022
+Microsoft WinUsb 1.0
+Mp3tag v2.49a v2.49a
+Opera 12.16 12.16.1860
+Opera Stable 17.0.1241.53 17.0.1241.53
+PMC laser lens Cleaner V12
+PMP Transcoding Tool 0.9.7.0
+QuickStores-Toolbar 1.1.0 1.1.0
+QuickTime Alternative 1.69 1.69
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+RelevantKnowledge 1.3.336.320
+Skype Click to Call 6.3.11079
+Skype? 6.6 6.6.106
+Sopcast Toolbar 12.7.0.2401
+Storm Codec 6.04.08
+Ticno Indexator 0.0.2.5
+Ticno multibar 1.1.1.1
+Unlocker 1.9.0 1.9.0
+Update for Html5 geolocation provider 3.6.2.901
+Update for Html5 geolocation provider 3.5.3.861
+VLC media player 2.0.8 2.0.8
+WebFldrs XP 9.50.7523
+Windows Internet Explorer 8 20090308.140743
+Windows Media Format Runtime
+Windows Search 4.0 04.00.6001.503
+Windows XP Service Pack 3 20080414.175805
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ??????????? ????????????? ??? ??????? 2007 ??????? Microsoft Office 12.0.6514.5001
+???????? ??????? 7.3 ??? Internet Explorer 7.3.1.4082
+
+
+
+
+
+System information for \\wkai0024.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Celeron(R) M CPU        530  @
+Physical memory:           1016 MB
+Video driver:              Mobile Intel(R) 965 Express Chipset Family
+Applications:
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2??? 3.13.11.0 3.13.11.0
+AIMP2
+Adobe Flash Player 10 ActiveX 10.2.153.1
+Adobe Flash Player 10 Plugin 10.3.181.34
+Adobe Reader 7.1.0 7.1.0
+Agere Systems HDA Modem
+Bosch Video SDK Runtime Library 4.25.00.05 4.25.0005
+DWG TrueView 2007 17.0.54.190
+Defraggler 2.02
+Foxit Reader 2.3.2008.2822
+HP PCMCIA Smart Card Reader 1.03
+HP PCMCIA Smart Card Reader 1.01.0001
+HP Quick Launch Buttons 6.30 A3 6.30 A3
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Intel(R) Matrix Storage Manager
+Intel(R) Network Connections 15.0.4.0 15.0.4.0
+Java 7 Update 40 7.0.400
+Java Auto Updater 2.1.9.8
+K-Lite Codec Pack 4.3.4 (Full) 4.3.4
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+MSVC80_x86_v2 1.0.3.0
+MSVC90_x86 1.0.1.2
+MSXML 4.0 SP2 (KB927978) 4.20.9841.0
+MSXML 6 Service Pack 2 (KB954459) 6.20.1099.0
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 2.0 Service Pack 2 Language Pack - RUS 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 Language Pack - RUS 3.2.30729
+Microsoft .NET Framework 3.5 Language Pack SP1 - rus 3.5.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.5
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.9
+Microsoft Office 2007 Service Pack 2 (SP2)
+Microsoft Office Excel MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Outlook MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Proof (English) 2007 12.0.6425.1000
+Microsoft Office Proof (German) 2007 12.0.6425.1000
+Microsoft Office Proof (Russian) 2007 12.0.6425.1000
+Microsoft Office Proof (Ukrainian) 2007 12.0.6425.1000
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Shared MUI (Russian) 2007 12.0.6425.1000
+Microsoft Office Standard 2007 12.0.6215.1000
+Microsoft Office Visio 2007 Service Pack 2 (SP2)
+Microsoft Office Visio 2007 Service Pack 2 (SP2)
+Microsoft Office Visio MUI (Russian) 2007 12.0.6425.1000
+Microsoft Office Visio Professional 2007 12.0.6425.1000
+Microsoft Office Visio ???????????????? 2007 12.0.6425.1000
+Microsoft Office Word MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office ??????????? 2007 12.0.6215.1000
+Microsoft Outlook Personal Folders Backup 1.10.0.0
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.6425.1000
+Microsoft User-Mode Driver Framework Feature Pack 1.9
+Microsoft Visual C++ 2005 Redistributable 8.0.56336
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 9.0.30729
+Mozilla Firefox 7.0 (x86 ru) 7.0
+Nokia Connectivity Cable Driver 7.1.36.0
+Nokia Ovi Suite 3.0.0.284
+Nokia Ovi Suite 3.0.0.284
+Nokia Ovi Suite Software Updater 02.06.006.44298
+OpenOffice.org 3.2 3.2.9505
+Ovi Desktop Sync Engine 1.5.146.0
+OviMPlatform 2.7.44.2
+PC Connectivity Solution 10.50.2.0
+PowerBuilder 6.5 Deployment Kit
+Punto Switcher 3.2.9 3.2.9.4
+Radmin Server 3.2 3.20.0000
+SAMSUNG Mobile Modem Driver Set
+SAMSUNG Mobile USB Modem 1.0 Software
+SAMSUNG Mobile USB Modem Software
+Samsung Mobile phone USB driver Software
+Security Update for 2007 Microsoft Office System (KB969559)
+Skype? 4.2 4.2.169
+SoundMAX 5.10.01.5220
+Synaptics Pointing Device Driver 9.1.11.3
+The KMPlayer (remove only)
+Update for Microsoft .NET Framework 3.5 SP1 (KB963707) 1
+VLC media player 1.0.5 1.0.5
+VideoNet 8.5 8.5.0543
+WebFldrs XP 9.50.7523
+Windows Imaging Component 3.0.0.0
+Windows Media Format 11 runtime
+Windows Media Format 11 runtime
+Windows XP Service Pack 3 20080414.175805
+XML Paper Specification Shared Components Language Pack 1.0
+XnView 1.97.8 1.97.8
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+??????? ???????????? ????????? ???? Broadcom 802.11 4.170.25.12
+????????? WinRAR
+?????? 2??? ?.??????????? 01.11.2013 33.0.0
+???????? (???????? + ??? ?????? ??????????????? ???????), 15 ?????? 2013?.
+????? ????????? Windows - Nokia pccsmcfd  (08/22/2008 7.0.0.0) 08/22/2008 7.0.0.0
+???????? ????? Microsoft .NET Framework 3.5 SP1 ? RUS
+
+
+
+
+
+System information for \\wkai000777.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           1014 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+32 Bit HP CIO Components Installer 8.1.4
+7-Zip 9.20
+Adobe Flash Player 10 ActiveX 10.3.183.7
+Adobe Flash Player 10 Plugin 10.3.183.7
+Adobe Reader 7.0 - Russian 007.000.000
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+Google Toolbar for Internet Explorer 7.5.4601.54
+Google Toolbar for Internet Explorer 1.0.0
+Google Update Helper 1.3.21.165
+Guard@Mail.Ru 1.0.0.549
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+Java Auto Updater 2.0.6.1
+Java(TM) 6 Update 29 6.0.290
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Silverlight 4.0.60531.0
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Mozilla Firefox 12.0 (x86 ru) 12.0
+Mozilla Maintenance Service 12.0
+OpenOffice.org 3.2 3.2.9505
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Skype? 5.5 5.5.124
+The KMPlayer (remove only)
+WebFldrs XP 9.50.7523
+Windows Internet Explorer 8 20090308.140743
+Windows XP Service Pack 3 20080414.175805
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+???????@Mail.Ru 2.4.1.218
+??????.??? 6.0 ??? Internet Explorer 6.0.0.1700
+
+
+
+
+
+System information for \\wka0081.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           2038 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2007 Microsoft Office Suite Service Pack 1 (SP1)
+2??? 3.13.11.0 3.13.11.0
+Adobe Flash Player 11 Plugin 11.1.102.55
+Adobe Reader X (10.1.8) - Russian 10.1.8
+Allok 3GP PSP MP4 iPod Video Converter 4.7.1202
+ConvertXtoDVD 3.0.0.13 3.0.0.13
+Google Chrome 30.0.1599.101
+Google Update Helper 1.3.21.165
+Guard@Mail.Ru 1.0.0.548
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+K-Lite Codec Pack 5.2.0 (Full) 5.2.0
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 2.0 2.0.50727
+Microsoft .NET Framework 2.0
+Microsoft Office Excel MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Outlook MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Proof (English) 2007 12.0.6213.1000
+Microsoft Office Proof (German) 2007 12.0.6213.1000
+Microsoft Office Proof (Russian) 2007 12.0.6213.1000
+Microsoft Office Proof (Ukrainian) 2007 12.0.6213.1000
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office Standard 2007 12.0.6215.1000
+Microsoft Office Word MUI (Russian) 2007 12.0.6215.1000
+Microsoft Office ??????????? 2007 12.0.6215.1000
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.6215.1000
+Nero 7 Essentials 7.02.3307
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Revo Uninstaller 1.94 1.94
+Skype Click to Call 6.3.11079
+Skype? 6.1 6.1.129
+The KMPlayer (remove only)
+VLC media player 1.1.11 1.1.11
+WebFldrs XP 9.50.7523
+Windows Internet Explorer 8 20090308.140743
+Windows Media Format Runtime
+Windows XP Service Pack 3 20080414.175805
+YouTube Downloader App 3.00 3.00
+Youtube Downloader HD v. 2.6
+??? ????? ??? 1.11
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+?????? 2??? ?.??????????? 01.11.2013 33.0.0
+???????@Mail.Ru 2.4.1.209
+??????.??? 6.7 ??? Internet Explorer 6.7.0.1919
+
+
+
+
+
+System information for \\WKAI0040:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   ??????? ????
+Registered owner:           
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           998 MB
+Video driver:              Intel(R)  Q965/Q963 Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Flash Player 11 Plugin 11.7.700.224
+Adobe Reader 7.0.7 7.0.7
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+BufferChm 100.0.170.000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Imaging Device Functions 10.0 10.0
+HP LaserJet M1522 MFP Series 4.0 4.0
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Active Management Technology LMS Service and SOL Driver
+Intel(R) Graphics Media Accelerator Driver
+Intel(R) Management Engine Interface
+Intel(R) PRO Network Connections Drivers
+Java Auto Updater 2.0.2.1
+Java(TM) 6 Update 20 6.0.200
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft .NET Framework 2.0 2.0.50727
+Microsoft .NET Framework 2.0
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+OpenOffice.org 3.2 3.2.9505
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Radmin Viewer 3.4 3.40.0000
+Realtek High Definition Audio Driver 5.10.0.5273
+Scan 10.1.0.0
+Setting Regional 1.00
+Skype Toolbars 5.0.4137
+Skype? 5.0 5.0.156
+The KMPlayer (remove only)
+TrayApp 100.0.170.000
+UnifiedPRIM 1.00.0023
+WebFldrs XP 9.50.7523
+Windows XP Service Pack 3 20080414.175805
+hppCLJCM2320 001.000.00071
+hppFaxUtilityCM2320 001.000.00069
+hppManualsCM2320 001.000.00071
+hppQFolderCM2320 1.00.0000
+hppScanToCM2320 001.000.00068
+hppscanCM2320 001.000.00071
+hppscanM1522 000.008.00085
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai00200.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+Adobe Flash Player 10 ActiveX 10.2.153.1
+Adobe Reader 7.0 - Russian 007.000.000
+Ask Toolbar 1.6.6.0
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Windows XP (KB915800-v4) 4
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 1.1 Security Update (KB2572067)
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Security Update for Windows Search 4 - KB963093
+Setting Regional 1.00
+The KMPlayer (remove only)
+WebFldrs XP 9.50.7523
+Windows Internet Explorer 8 20090308.140743
+Windows Search 4.0 04.00.6001.503
+Windows XP Service Pack 3 20080414.175805
+hp LaserJet 1000
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+
+
+
+
+
+System information for \\wkai001.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          admin
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Genuine Intel(R) CPU            2140  @
+Physical memory:           2046 MB
+Video driver:              Intel(R) G33/G31 Express Chipset Family
+Applications:
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+7-Zip 4.65
+Adobe Flash Player 11 Plugin 11.9.900.117
+Adobe Reader 9.5.0 - Russian 9.5.0
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 1.1 Security Update (KB2833941)
+Microsoft .NET Framework 4 Client Profile 4.0.30319
+Microsoft .NET Framework 4 Client Profile 4.0.30319
+Microsoft .NET Framework 4 Client Profile RUS Language Pack 4.0.30319
+Microsoft .NET Framework 4 Extended 4.0.30319
+Microsoft .NET Framework 4 Extended 4.0.30319
+Microsoft .NET Framework 4 Extended RUS Language Pack 4.0.30319
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Mozilla Firefox 24.0 (x86 ru) 24.0
+Mozilla Maintenance Service 24.0
+NVIDIA Install Application 2.1002.133.902
+NVIDIA PhysX 9.13.0725
+NVIDIA nView 140.75 140.75
+NVIDIA ??????????? ??????? 331.58 331.58
+NVIDIA ????????? ??????????? ??????????? PhysX 9.13.0725 9.13.0725
+PDFCreator 1.2.3
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+WebFldrs XP 9.50.7523
+Windows Imaging Component 3.0.0.0
+Windows Internet Explorer 8 20090308.140743
+Windows XP Service Pack 3 20080414.175805
+?????? ?????????? NVIDIA 331.58 331.58
+???????? ????? ??????????? ??????? Microsoft.NET Framework 4 - RUS 4.0.30319
+???????? ????? ??????????? ?????? Microsoft.NET Framework 4 - RUS 4.0.30319
+
+
+
+
+System information for \\wkai0201.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.5 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;
+
+;;  File : PciPorts.inf
+
+;;  This inf file configures Pci multi I/O (COM & LPT ) ports
+
+;;  (c) Copyright MosChip Semiconductor Technology Limited
+
+;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[version]
+
+CatalogFile=Pciports.cat 
+
+signature=$Chicago$
+
+Class=Ports
+
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+
+Provider=%ProviderName%
+
+DriverVer=05/22/2008, 1.0.0.6
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[SourceDisksNames]
+
+0=%DiskName%,,
+
+
+
+[SourceDisksNames.ia64]
+
+0=%DiskName%,,
+
+
+
+[SourceDisksNames.amd64]
+
+0=%DiskName%,,
+
+
+
+[SourceDisksFiles]
+
+PciSPorts.sys=0,X86,
+
+PciPPorts.sys=0,X86,
+
+PciPorts.dll=0,X86,
+
+PciIsaSerial.sys=0,X86, 
+
+
+
+[SourceDisksFiles.ia64]
+
+PciSPorts.sys=0,IA64,
+
+PciPPorts.sys=0,IA64,
+
+PciPorts.dll=0,IA64, 
+
+PciIsaSerial.sys=0,IA64, 
+
+
+
+[SourceDisksFiles.amd64]
+
+PciSPorts.sys=0,AMD64,
+
+PciPPorts.sys=0,AMD64,
+
+PciPorts.dll=0,AMD64, 
+
+PciIsaSerial.sys=0,AMD64, 
+
+
+[DestinationDirs]
+
+Common.Files.x86_11 = 11
+
+Sys.Files.x86_12 = 12 
+
+
+
+Common.Files.x64_11 = 11 
+
+Sys.Files.x64_12 = 12 
+
+
+
+Common.Files.Amd64_11 = 11 
+
+Sys.Files.Amd64_12 = 12 
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;  Driver Installation
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+[Manufacturer]
+
+%ProviderName%=PCIPorts, NTamd64, NTia64
+
+
+
+[PCIPorts]
+
+%PCI.SerialPort%=ComCard,PCI\VEN_9710&DEV_9865&SUBSYS_1000A000&REV_00
+
+%PCI.ParallelPort%=LptCard,PCI\VEN_9710&DEV_9865&SUBSYS_2000A000&REV_00
+
+%PCI.ComPort%=ISAComPort, MCS9000MF\PCI_COM
+
+%PCI.EcpPort%=ISAEcpPort, MCS9000MF\PCI_LPT
+
+
+
+[PCIPorts.NTamd64]
+
+%PCI.SerialPort%=ComCard,PCI\VEN_9710&DEV_9865&SUBSYS_1000A000&REV_00
+
+%PCI.ParallelPort%=LptCard,PCI\VEN_9710&DEV_9865&SUBSYS_2000A000&REV_00
+
+%PCI.ComPort%=ISAComPort, MCS9000MF\PCI_COM
+
+%PCI.EcpPort%=ISAEcpPort, MCS9000MF\PCI_LPT
+
+
+
+[PCIPorts.NTia64]
+
+%PCI.SerialPort%=ComCard,PCI\VEN_9710&DEV_9865&SUBSYS_1000A000&REV_00
+
+%PCI.ParallelPort%=LptCard,PCI\VEN_9710&DEV_9865&SUBSYS_2000A000&REV_00
+
+%PCI.ComPort%=ISAComPort, MCS9000MF\PCI_COM
+
+%PCI.EcpPort%=ISAEcpPort, MCS9000MF\PCI_LPT
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;  COM Port Install
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;  X86 ;;;; 
+
+
+[ISAComPort.NT]
+
+CopyFiles=Common.Files.x86_11, Sys.Files.x86_12
+
+AddReg=ComPort.AddReg, ComPort.NT.AddReg, Uninstall.AddReg
+
+Include=msports.inf 
+
+Needs=ComPort.NT.Copy
+
+
+[ISAComPort.NT.HW]
+
+AddReg=ComPort.NT.HW.AddReg
+
+
+
+[ISAComPort.NT.Services]
+
+AddService = PciIsaSerial, 0x00000002, PCI_ISASerial_Service_Inst,PCI_ISASerial_EventLog_Inst
+
+AddService = Serenum,,Serenum_Service_Inst
+
+
+;;;;  AMD64 ;;;; 
+
+
+[ISAComPort.NTamd64]
+
+CopyFiles=Common.Files.Amd64_11, Sys.Files.Amd64_12
+
+AddReg=ComPort.AddReg, ComPort.NT.AddReg, Uninstall.AddReg
+
+Include=msports.inf 
+
+Needs=ComPort.NT.Copy
+
+
+[ISAComPort.NTamd64.HW]
+
+AddReg=ComPort.NT.HW.AddReg
+
+
+[ISAComPort.NTamd64.Services]
+
+AddService = PciIsaSerial, 0x00000002, PCI_ISASerial_Service_Inst,PCI_ISASerial_EventLog_Inst
+
+AddService = Serenum,,Serenum_Service_Inst
+
+
+;;;;  IA64 ;;;; 
+
+
+[ISAComPort.NTia64]
+
+CopyFiles=Common.Files.x64_11, Sys.Files.x64_12
+
+AddReg=ComPort.AddReg, ComPort.NT.AddReg, Uninstall.AddReg
+
+Include=msports.inf 
+
+Needs=ComPort.NT.Copy
+
+
+
+[ISAComPort.NTia64.HW]
+
+AddReg=ComPort.NT.HW.AddReg
+
+
+
+[ISAComPort.NTia64.Services]
+
+AddService = PciIsaSerial, 0x00000002, PCI_ISASerial_Service_Inst,PCI_ISASerial_EventLog_Inst
+
+AddService = Serenum,,Serenum_Service_Inst
+
+; -------------- ISASerial Port Driver install sections
+
+[PCI_ISASerial_Service_Inst]
+
+DisplayName    = %PCI.ComPort%
+
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+
+StartType      = 3               ; SERVICE_DEMAND_START (1-SERVICE_SYSTEM_START)
+
+ErrorControl   = 0               ; SERVICE_ERROR_IGNORE
+
+ServiceBinary  = %12%\PciIsaSerial.sys
+
+LoadOrderGroup = Extended base
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;  EcpPort Install
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+[ISAEcpPort.NT]
+
+CopyFiles=Common.Files.x86_11
+
+AddReg=EcpPort.AddReg,EcpPort.NT.AddReg
+
+
+
+[ISAEcpPort.NT.Services]
+
+Include=msports.inf
+
+Needs=EcpPort.NT.Services
+
+
+[ISAEcpPort.NTamd64]
+
+CopyFiles=Common.Files.x86_11
+
+AddReg=EcpPort.AddReg,EcpPort.NT.AddReg
+
+
+
+[ISAEcpPort.NTamd64.Services]
+
+Include=msports.inf
+
+Needs=EcpPort.NT.Services
+
+
+[ISAEcpPort.NTia64]
+
+CopyFiles=Common.Files.x86_11
+
+AddReg=EcpPort.AddReg,EcpPort.NT.AddReg
+
+
+
+[ISAEcpPort.NTia64.Services]
+
+Include=msports.inf
+
+Needs=EcpPort.NT.Services
+
+
+[PCI_ISASerial_EventLog_Inst]
+
+AddReg=ISAComPort.DriverParams
+
+
+[ISAComPort.DriverParams]
+
+HKLM,System\CurrentControlSet\Services\PciIsaSerial, SetRtsOnWake, 0x10001, 0
+
+HKLM,System\CurrentControlSet\Services\PciIsaSerial, RetainPowerOnClose, 0x10001, 1
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;; PCI COM Card Install
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+
+;;;;  X86 ;;;; 
+
+
+
+[ComCard.NT]
+
+CopyFiles=Common.Files.x86_11, Sys.Files.x86_12
+
+AddReg=ComPort.AddReg, ComCard.NT.AddReg, Uninstall.AddReg
+
+
+
+[ComCard.NT.HW]
+
+AddReg=ComCard.NT.HW.AddReg
+
+
+
+[ComCard.NT.Services]
+
+AddService = PciSPorts, 0x00000002, PCISPorts_Service_Inst,PCISPorts_EventLog_Inst
+
+AddService = Serenum,,Serenum_Service_Inst
+
+
+;;;;  AMD64 ;;;; 
+
+[ComCard.NTamd64]
+
+CopyFiles=Common.Files.Amd64_11, Sys.Files.Amd64_12
+
+AddReg=ComPort.AddReg, ComCard.NT.AddReg, Uninstall.AddReg
+
+[ComCard.NTamd64.HW]
+
+AddReg=ComCard.NT.HW.AddReg
+
+[ComCard.NTamd64.Services]
+
+AddService = PciSPorts, 0x00000002, PCISPorts_Service_Inst,PCISPorts_EventLog_Inst
+
+AddService = Serenum,,Serenum_Service_Inst
+
+;;;;  IA64 ;;;; 
+
+
+[ComCard.NTia64]
+
+CopyFiles=Common.Files.x64_11, Sys.Files.x64_12
+
+AddReg=ComPort.AddReg, ComCard.NT.AddReg, Uninstall.AddReg
+
+
+
+[ComCard.NTia64.HW]
+
+AddReg=ComCard.NT.HW.AddReg
+
+
+
+[ComCard.NTia64.Services]
+
+AddService = PciSPorts, 0x00000002, PCISPorts_Service_Inst,PCISPorts_EventLog_Inst
+
+AddService = Serenum,,Serenum_Service_Inst
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;  General Sections for all Installations  
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ComPort.AddReg]
+
+HKR,,PortSubClass,1,01
+
+
+
+[ComPort.NT.AddReg]
+
+HKR,,EnumPropPages32,,MsPorts.dll,SerialPortPropPageProvider
+
+
+
+[ComPort.NT.HW.AddReg]
+
+HKR,,UpperFilters,0x00010000,serenum
+
+HKR,,CUSTNAME,0x00010000,%CustomerName%
+
+
+
+[EcpPort.AddReg]
+
+HKR,,PortSubClass,1,00
+
+HKR,,ECPDevice,1,01
+
+
+
+[EcpPort.NT.AddReg]
+
+HKR,,EnumPropPages32,,MsPorts.dll,ParallelPortPropPageProvider
+
+
+
+[PCISPorts_EventLog_Inst]
+
+AddReg=ComCard.DriverParams
+
+
+
+[ComCard.NT.HW.AddReg]
+
+HKR,,UpperFilters,0x00010000,serenum
+
+HKR,,MaskLowBaudToHigh, 0x10001, 0
+
+HKR,,UARTMode, 0x10001, 9
+
+HKR,,RxFIFO, 0x10001, 64
+
+HKR,,TxFIFO, 0x10001, 64
+
+HKR,,RxHighWaterMark, 0x10001, 240
+
+HKR,,RxLowWaterMark, 0x10001, 16
+
+HKR,,EnableHwFlowControl, 0x10001, 0
+
+HKR,,HwFlowControl, 0x10001, 0
+
+HKR,,UseClockPrescalar, 0x10001, 0
+
+HKR,,CPRRegValue, 0x10001, 1
+
+HKR,,UseBaudMultiplier, 0x10001, 0
+
+HKR,,TCRRegValue, 0x10001, 16
+
+HKR,,XOnChar, 0x10001, 17
+
+HKR,,XOffChar, 0x10001, 19
+
+HKR,,TranceiverMode, 0x10001, 0
+
+HKR,,RS485Mode, 0x10001, 1
+
+HKR,,SampleStartBit, 0x10001, 0
+
+HKR,,StartBitLength, 0x10001, 4
+
+HKR,,SampleDataBit, 0x10001, 0
+
+HKR,,DataBitLength, 0x10001, 4
+
+HKR,,TxFifoAmount, 0x10001, 64
+
+HKR,,TxDmaEnable, 0x10001, 0
+
+HKR,,TxDmaLength, 0x10001, 4096
+
+HKR,,RxDmaEnable, 0x10001, 0
+
+HKR,,RxDmaLength, 0x10001, 4096
+
+HKR,,Limit4k, 0x10001, 1
+
+HKR,,SerialDebugLevel, 0x10001, 0
+
+HKR,,PowerUpTime, 0x10001, 1000
+
+HKR,,EnableICG, 0x10001, 0
+
+HKR,,InterCharGap, 0x10001, 0
+
+HKR,,UseCustomBaudrate, 0x10001, 0
+
+HKR,,DLLValue, 0x10001, 0
+
+HKR,,DLMValue, 0x10001, 0
+
+HKR,,InputClock, 0x10001, 0
+
+HKR,,UseExternalClock, 0x10001, 0
+
+HKR,,ExternalClock, 0x10001, 14745600
+
+HKR,,UseExtPCIeClockSource, 0x10001, 0
+
+HKR,,RemoteWakeOn, 0x10001, 0x09000000
+
+HKR,,CUSTNAME,0x00010000,%CustomerName%
+
+[ComCard.DriverParams]
+
+HKLM,System\CurrentControlSet\Services\PciSPorts, EnableTranceiverShutdown, 0x10001, 0
+
+HKLM,System\CurrentControlSet\Services\PciSPorts, UseExtPCIeClockSource, 0x10001, 0
+
+HKLM,System\CurrentControlSet\Services\PciSPorts, RetainPowerOnClose, 0x10001, 1
+
+[ComCard.NT.AddReg]
+
+HKR,,EnumPropPages32,,PciPorts.dll,SerialPortPropPageProvider
+
+[PCISPorts_Service_Inst]
+
+DisplayName = %PCI.SerialPort%
+
+ServiceType  = 1             ; SERVICE_KERNEL_DRIVER
+
+StartType      = 3           ; SERVICE_DEMAND_START (1-SERVICE_SYSTEM_START)
+
+ErrorControl = 0             ; SERVICE_ERROR_IGNORE
+
+ServiceBinary = %12%\PciSPorts.sys
+
+LoadOrderGroup = Extended base
+
+; -------------- Serenum Driver install section
+
+[Serenum_Service_Inst]
+
+DisplayName    = %Serenum.SVCDESC%
+
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+
+StartType      = 3               ; SERVICE_DEMAND_START
+
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+
+ServiceBinary  = %12%\serenum.sys
+
+LoadOrderGroup = PNP Filter
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;; PCI LPT Card Install
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;  X86 ;;;; 
+
+[LptCard.NT]
+
+CopyFiles=Common.Files.x86_11, Sys.Files.x86_12
+
+AddReg=LptCard.AddReg,LptCard.NT.AddReg,Uninstall.AddReg
+
+
+[LptCard.NT.HW]
+
+AddReg = LptCard.NT.HW.AddReg
+
+
+[LptCard.NT.Services]
+
+AddService = PciPPorts, 0x00000002, PCIPPorts_Service_Inst, PCIPPorts_EventLog_Inst 
+
+;;;;  AMD64 ;;;; 
+
+
+[LptCard.NTamd64]
+
+CopyFiles=Common.Files.Amd64_11, Sys.Files.Amd64_12
+
+AddReg=LptCard.AddReg,LptCard.NT.AddReg,Uninstall.AddReg
+
+
+[LptCard.NT.HW]
+
+AddReg = LptCard.NT.HW.AddReg
+
+
+
+[LptCard.NTamd64.Services]
+
+AddService = PciPPorts, 0x00000002, PCIPPorts_Service_Inst, PCIPPorts_EventLog_Inst 
+
+
+;;;;  IA64 ;;;; 
+
+
+[LptCard.NTia64]
+
+CopyFiles=Common.Files.x64_11, Sys.Files.x64_12
+
+AddReg=LptCard.AddReg,LptCard.NT.AddReg,Uninstall.AddReg
+
+
+[LptCard.NT.HW]
+
+AddReg = LptCard.NT.HW.AddReg
+
+
+[LptCard.NTia64.Services]
+
+AddService = PciPPorts, 0x00000002, PCIPPorts_Service_Inst, PCIPPorts_EventLog_Inst
+
+;;; Other sections
+
+[LptCard.NT.HW.AddReg]
+
+HKR,,CUSTNAME,0x00010000,%CustomerName%
+
+[LptCard.AddReg]
+
+HKR,,PortSubClass,1,00
+
+HKR,,ECPDevice,1,01
+
+[LptCard.NT.AddReg]
+
+HKR,,EnumPropPages32,,PciPorts.dll,ParallelPortPropPageProvider
+
+
+
+; -------------- Parallel Port Driver install sections
+
+[PCIPPorts_Service_Inst]
+
+DisplayName    = %PCI.ParallelPort%
+
+ServiceType    = 1                ; SERVICE_KERNEL_DRIVER
+
+StartType      = 3                ; SERVICE_DEMAND_START (1-SERVICE_SYSTEM_START)
+
+ErrorControl   = 0                ; SERVICE_ERROR_IGNORE  ;; Check
+
+ServiceBinary  = %12%\PciPPorts.sys
+
+LoadOrderGroup = Parallel arbitrator
+
+
+
+[PCIPPorts_EventLog_Inst]
+
+AddReg = PCIPPorts_EventLog_AddReg
+
+
+
+[PCIPPorts_EventLog_AddReg]
+
+HKR,,EventMessageFile,0x00020000,%%SystemRoot%%\System32\IoLogMsg.dll;%%SystemRoot%%\System32\drivers\PciPPorts.sys
+
+HKR,,TypesSupported,0x00010001,7
+
+
+[Uninstall.AddReg]
+
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\PCI Multi-Io Controller\%CustomerName%,VID_PID_NAME1,0,VEN_9710&DEV_9865
+
+
+[Common.Files.x86_11] 
+
+PciPorts.dll
+
+
+
+[Sys.Files.x86_12] 
+
+PciSPorts.sys
+
+PciPPorts.sys
+
+PciIsaSerial.sys
+
+
+[Common.Files.x64_11] 
+
+PciPorts.dll
+
+
+[Sys.Files.x64_12] 
+
+PciSPorts.sys
+
+PciPPorts.sys
+
+PciIsaSerial.sys
+
+
+[Common.Files.AMD64_11] 
+
+PciPorts.dll
+
+
+
+[Sys.Files.AMD64_12] 
+
+PciSPorts.sys
+
+PciPPorts.sys
+
+PciIsaSerial.sys
+
+
+; User readable strings
+
+;----------------------------------------------------------
+
+[Strings]
+
+CustomerName=MOSCHIP
+
+ProviderName=MosChip Semiconductor Technology Ltd
+Adobe Reader 9.4.0 - Russian 9.4.0
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+BufferChm 100.0.170.000
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Imaging Device Functions 10.0 10.0
+High Definition Audio - KB888111 20040219.000000
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+PowerBuilder 6.5 Deployment Kit
+Psi (remove only)
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Scan 10.1.0.0
+TrayApp 100.0.170.000
+WebFldrs XP 9.50.7523
+Windows XP Service Pack 3 20080414.175805
+hppCLJCM2320 001.000.00071
+hppFaxUtilityCM2320 001.000.00069
+hppManualsCM2320 001.000.00071
+hppQFolderCM2320 1.00.0000
+hppScanToCM2320 001.000.00068
+hppscanCM2320 001.000.00071
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????????? WinRAR
+
+
+
+
+
+System information for \\wkai0011.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              Intel(R)  946GZ Express Chipset Family
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+Adobe Reader X (10.1.8) - Russian 10.1.8
+Guard.Mail.ru
+High Definition Audio - KB888111 20040219.000000
+Html5 geolocation provider 3.5.0.849
+Intel(R) Graphics Media Accelerator Driver
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Mail.Ru ????? 5.7 (?????? 3797, ??? ???? ?????????????)
+Mail.Ru ??????? 2.4.0.516
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 1.1 Security Update (KB2572067)
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver
+Update for Html5 geolocation provider 3.6.2.901
+WebFldrs XP 9.50.7523
+Windows Genuine Advantage Notifications (KB905474) 1.9.0040.0
+Windows Internet Explorer 8 20090308.140743
+Windows XP Service Pack 3 20080414.175805
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\WKAI00111:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          Hotel Heliopark Kaiserhof
+IE version:                8.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           2.3 GHz
+Processor type:            AMD V140 Processor
+Physical memory:           1790 MB
+Video driver:              ATI Mobility Radeon HD 4200
+Applications:
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+7-Zip 9.20
+ATI - ??????? ????????????? 6.14.10.1022
+ATI Catalyst Control Center 2.009.0409.2130
+ATI Display Driver 8.61-090409a-094136C
+ATI Parental Control & Encoder 3.0
+Adobe Flash Player 11 ActiveX 11.9.900.117
+Adobe Flash Player 11 Plugin 11.9.900.117
+Adobe Reader X (10.1.3) - Russian 10.1.3
+Ashampoo Burning Studio 6 FREE v.6.81 6.8.1
+Atheros Client Installation Program
+BufferChm 100.0.170.000
+CCC Help Chinese Standard 2009.0409.2130.36802
+CCC Help Chinese Traditional 2009.0409.2130.36802
+CCC Help Czech 2009.0409.2130.36802
+CCC Help Danish 2009.0409.2130.36802
+CCC Help Dutch 2009.0409.2130.36802
+CCC Help English 2009.0409.2130.36802
+CCC Help Finnish 2009.0409.2130.36802
+CCC Help French 2009.0409.2130.36802
+CCC Help German 2009.0409.2130.36802
+CCC Help Greek 2009.0409.2130.36802
+CCC Help Hungarian 2009.0409.2130.36802
+CCC Help Italian 2009.0409.2130.36802
+CCC Help Japanese 2009.0409.2130.36802
+CCC Help Korean 2009.0409.2130.36802
+CCC Help Norwegian 2009.0409.2130.36802
+CCC Help Polish 2009.0409.2130.36802
+CCC Help Portuguese 2009.0409.2130.36802
+CCC Help Russian 2009.0409.2130.36802
+CCC Help Spanish 2009.0409.2130.36802
+CCC Help Swedish 2009.0409.2130.36802
+CCC Help Thai 2009.0409.2130.36802
+CCC Help Turkish 2009.0409.2130.36802
+Catalyst Control Center - Branding 1.00.0000
+Catalyst Control Center Core Implementation 2009.0409.2131.36802
+Catalyst Control Center Graphics Full Existing 2009.0409.2131.36802
+Catalyst Control Center Graphics Full New 2009.0409.2131.36802
+Catalyst Control Center Graphics Light 2009.0409.2131.36802
+Catalyst Control Center Localization All 2009.0409.2131.36802
+Definition update for Microsoft Office 2010 (KB982726) 32-Bit Edition
+Destination Component 100.0.0.0
+DeviceDiscovery 100.0.190.000
+DeviceManagementQFolder 1.00.0000
+DivX Setup 2.4.1.4
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+HP Imaging Device Functions 10.0 10.0
+High Definition Audio Driver Package - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 4 Client Profile (KB2461678) 1
+Hotfix for Windows Media Format 11 SDK (KB929399)
+Hotfix for Windows XP (KB954550-v5) 5
+JMicron Ethernet Adapter NDIS Driver 5.0.12.7
+JMicron JMB38X Flash Media Controller 1.00.10.04
+Java Auto Updater 2.0.3.1
+Java(TM) 6 Update 24 6.0.240
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+MSXML 4.0 SP2 (KB954430) 4.20.9870.0
+MSXML 4.0 SP2 (KB973688) 4.20.9876.0
+MSXML 6.0 Parser (KB933579) 6.10.1200.0
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 4 Client Profile 4.0.30320
+Microsoft .NET Framework 4 Client Profile 4.0.30320
+Microsoft .NET Framework 4 Client Profile RUS Language Pack 4.0.30319
+Microsoft .NET Framework 4 Extended 4.0.30319
+Microsoft .NET Framework 4 Extended 4.0.30319
+Microsoft .NET Framework 4 Extended RUS Language Pack 4.0.30319
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.9
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office 2010 Service Pack 1 (SP1)
+Microsoft Office Access MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office Excel MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office OneNote MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office Outlook MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office PowerPoint MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office Proof (English) 2010 14.0.6029.1000
+Microsoft Office Proof (German) 2010 14.0.6029.1000
+Microsoft Office Proof (Russian) 2010 14.0.6029.1000
+Microsoft Office Proof (Ukrainian) 2010 14.0.6029.1000
+Microsoft Office Proofing (Russian) 2010 14.0.6029.1000
+Microsoft Office Publisher MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office Shared MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office Single Image 2010 14.0.6029.1000
+Microsoft Office Word MUI (Russian) 2010 14.0.6029.1000
+Microsoft Office, ??? ???? ? ??????? 2010 14.0.6029.1000
+Microsoft Primary Interoperability Assemblies 2005 8.0.50727.42
+Microsoft Silverlight 4.0.60831.0
+Microsoft Software Update for Web Folders  (Russian) 14 14.0.6029.1000
+Microsoft User-Mode Driver Framework Feature Pack 1.0
+Microsoft Visual C++ 2008 ATL Update kb973924 - x86 9.0.30729.4148 9.0.30729.4148
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 9.0.30729
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 9.0.30729.6161
+Mozilla Firefox 8.0.1 (x86 ru) 8.0.1
+OpenOffice.org 3.2 3.2.9505
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Psi (remove only)
+QuickTime 7.69.80.9
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver 5.10.0.6194
+Scan 10.1.0.0
+Skins 2009.0409.2131.36802
+Skype? 5.9 5.9.115
+The KMPlayer (remove only) 3.7.0.113
+TrayApp 100.0.170.000
+WIDCOMM Bluetooth Software 5.5.0.4100
+WebFldrs XP 9.50.7523
+Windows Driver Package - Intel (NETw5x32) net  (03/04/2009 12.4.0.21) 03/04/2009 12.4.0.21
+Windows Driver Package - Intel (w29n51) net  (12/19/2007 9.0.4.39) 12/19/2007 9.0.4.39
+Windows Driver Package - Intel net  (03/04/2009 12.4.0.21) 03/04/2009 12.4.0.21
+Windows Genuine Advantage Notifications (KB905474) 1.9.0040.0
+Windows Imaging Component 3.0.0.0
+Windows Internet Explorer 8 20090308.140743
+Windows Media Format 11 runtime
+Windows Media Format 11 runtime
+Windows XP Service Pack 3 20080414.175805
+ccc-core-preinstall 2009.0409.2131.36802
+ccc-core-static 2009.0409.2131.36802
+ccc-utility 2009.0409.2131.36802
+hppCLJCM2320 001.000.00071
+hppFaxUtilityCM2320 001.000.00069
+hppManualsCM2320 001.000.00071
+hppQFolderCM2320 1.00.0000
+hppScanToCM2320 001.000.00068
+hppscanCM2320 001.000.00071
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????? Windows - Intel net  (11/29/2009 13.0.0.112) 11/29/2009 13.0.0.112
+??? ???????? 2011
+???????? ????? ??????????? ??????? Microsoft.NET Framework 4 - RUS 4.0.30319
+???????? ????? ??????????? ?????? Microsoft.NET Framework 4 - RUS 4.0.30319
+
+
+
+
+
+System information for \\wkai0007.kaiserhof.heliopark.ru:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   ????????? ?????????
+Registered owner:          ??????
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.6 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2140  @
+Physical memory:           1014 MB
+Video driver:              NVIDIA GeForce 8500 GT
+Applications:
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+7-Zip 9.20
+Adobe Flash Player 10 ActiveX 10.3.183.11
+Adobe Flash Player 11 Plugin 11.1.102.55
+Adobe Reader 9.4.0 - Russian 9.4.0
+Bill Redirect Serial COM Port to Keyboard Buffer 1.00.0000
+Google Chrome 30.0.1599.101
+Google Update Helper 1.3.21.165
+High Definition Audio - KB888111 20040219.000000
+K-Lite Codec Pack 4.3.4 (Full) 4.3.4
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Microsoft Office Excel MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Outlook MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (English) 2007 12.0.4518.1014
+Microsoft Office Proof (German) 2007 12.0.4518.1014
+Microsoft Office Proof (Russian) 2007 12.0.4518.1022
+Microsoft Office Proof (Ukrainian) 2007 12.0.4518.1022
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Shared MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office Standard 2007 12.0.4518.1014
+Microsoft Office Word MUI (Russian) 2007 12.0.4518.1022
+Microsoft Office ??????????? 2007 12.0.4518.1014
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.4518.1022
+Mp3tag v2.49a v2.49a
+NVIDIA Drivers
+PowerBuilder 6.5 Deployment Kit
+Radmin Server 3.2 3.20.0000
+Realtek High Definition Audio Driver 5.10.0.5515
+SberSign 5.7.3 5.7.3
+Skype? 6.7 6.7.102
+SpeedBit Video Downloader 1154(build_474)
+The KMPlayer (remove only)
+VLC media player 1.1.11 1.1.11
+WebFldrs XP 9.50.7523
+Windows XP Service Pack 3 20080414.175805
+Youtube Downloader HD v. 2.6.1
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+
+
+
+
+System information for \\WKAI0027:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Uniprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          User
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           2.6 GHz
+Processor type:            Intel(R) Celeron(R) CPU
+Physical memory:           510 MB
+Video driver:              NVIDIA GeForce 7300 GT 
+Applications:
+1C:Enterprise 8.1 8.1.15
+1C:??????????? 8.2 (8.2.13.205) 8.2.13.205
+2??? 3.13.11.0 3.13.11.0
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+ATI Display Driver 8.583-090211a-077157C-ATI
+Adobe Flash Player 10 ActiveX 10.1.85.3
+Adobe Flash Player 10 Plugin 10.1.102.64
+Adobe Reader 9.5.1 - Russian 9.5.1
+Hotfix for Microsoft .NET Framework 4 Client Profile (KB2461678) 1
+Intel(R) Network Connections Drivers
+Intel(R) PROSet for Wired Connections 9.20.0000
+Java Auto Updater 2.0.6.1
+Java(TM) 6 Update 29 6.0.290
+Kaspersky Endpoint Security 10 ??? Windows 10.1.0.867
+Kyocera Product Library 2.0.713
+Microsoft .NET Framework 4 Client Profile 4.0.30320
+Microsoft .NET Framework 4 Client Profile 4.0.30320
+Microsoft .NET Framework 4 Extended 4.0.30320
+Microsoft .NET Framework 4 Extended 4.0.30320
+Microsoft Kernel-Mode Driver Framework Feature Pack 1.7
+Microsoft Office Access MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office Excel MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office OneNote MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office Outlook MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office PowerPoint MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office Proof (English) 2010 14.0.4763.1000
+Microsoft Office Proof (German) 2010 14.0.4763.1000
+Microsoft Office Proof (Russian) 2010 14.0.4763.1000
+Microsoft Office Proof (Ukrainian) 2010 14.0.4763.1000
+Microsoft Office Proofing (Russian) 2010 14.0.4763.1000
+Microsoft Office Publisher MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office Shared MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office Single Image 2010 14.0.4763.1000
+Microsoft Office Word MUI (Russian) 2010 14.0.4763.1000
+Microsoft Office, ??? ???? ? ??????? 2010 14.0.4763.1000
+Microsoft Software Update for Web Folders  (Russian) 14 14.0.4763.1000
+Microsoft User-Mode Driver Framework Feature Pack 1.0
+Microsoft WinUsb 1.0
+Mozilla Firefox 25.0 (x86 ru) 25.0
+Mozilla Maintenance Service 25.0
+NVIDIA Drivers 1.10.57.35
+NVIDIA Install Application 2.0.14.0
+NVIDIA nView 135.36 135.36
+NVIDIA nView Desktop Manager 6.14.10.13065
+NVIDIA ??????????? ??????? 260.99 260.99
+OpenOffice.org 3.2 3.2.9505
+PDFCreator 1.1.0
+Picasa 3 3.9
+PowerBuilder 6.5 Deployment Kit
+Punto Switcher 3.2 3.2.0.27
+Radmin Server 3.2 3.20.0000
+Realtek AC'97 Audio
+SAMSUNG USB Driver for Mobile Phones 1.5.22.0
+Samsung Kies 2.5.2.13021_10
+Samsung Kies 2.5.2.13021_10
+Setting Regional 1.00
+WebFldrs XP 9.50.7523
+Windows Feature Pack for Storage (32-bit) - IMAPI update for Blu-Ray 1.0
+Windows Media Format 11 runtime
+Windows Media Format 11 runtime
+Windows XP Service Pack 3 20080414.175805
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????????? WinRAR
+?????? 2??? ?.??????????? 01.11.2013 33.0.0
+?????? ?????????? NVIDIA 260.99 260.99
+????????? ?????? ????????? 1.00.0000
+
+
+
+
+System information for \\WKAI0015:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows XP, Multiprocessor Free
+Product type:              Professional
+Product version:           5.1
+Service pack:              3
+Kernel build number:       2600
+Registered organization:   
+Registered owner:          1
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                2
+Processor speed:           1.7 GHz
+Processor type:            Intel(R) Pentium(R) Dual  CPU  E2160  @
+Physical memory:           1014 MB
+Video driver:              NVIDIA GeForce 8500 GT
+Applications:
+1C:??????????? 8.2 (8.2.14.540) 8.2.14.540
+1C:??????????? 8.2 (8.2.17.169) 8.2.17.169
+32 Bit HP BiDi Channel Components Installer 1.1.0.2
+ABBYY FineReader 9.0 Professional Edition 9.00.724.5507
+Adobe Flash Player 11 Plugin 11.0.1.152
+Adobe Reader XI 11.0.00
+Adobe Shockwave Player 11.5 11.5.9.615
+CCI Epitome Control 3.0.08
+CCleaner 3.17
+Defraggler 2.02
+Foxit Reader 2.3.2008.2822
+GTK+ Runtime 2.12.1 rev a (remove only)
+HP Color LaserJet CM2320 MFP Series 2.0 2.0
+High Definition Audio - KB888111 20040219.000000
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595) 1
+Hotfix for Microsoft .NET Framework 3.5 SP1 (KB958484) 1
+Hotfix for Windows XP (KB954550-v5) 5
+Intel(R) Graphics Media Accelerator Driver
+Java Auto Updater 2.0.6.1
+Java(TM) 6 Update 29 6.0.290
+Kyocera Product Library 2.0.713
+Libra CI 3.0.071
+MSXML 4.0 SP2 (KB954430) 4.20.9870.0
+MSXML 4.0 SP2 (KB973688) 4.20.9876.0
+MSXML 6 Service Pack 2 (KB973686) 6.20.2003.0
+Microsoft .NET Framework 1.1 1.1.4322
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 1.1 Russian Language Pack 1.1.4322
+Microsoft .NET Framework 1.1 Security Update (KB979906)
+Microsoft .NET Framework 2.0 Language Pack - RUS 1.1.50727.42
+Microsoft .NET Framework 2.0 Language Pack - RUS
+Microsoft .NET Framework 2.0 Service Pack 2 2.2.30729
+Microsoft .NET Framework 3.0 Service Pack 2 3.2.30729
+Microsoft .NET Framework 3.5 SP1 3.5.30729
+Microsoft .NET Framework 3.5 SP1
+Microsoft Office 2007 Service Pack 2 (SP2)
+Microsoft Office 2007 Service Pack 2 (SP2)
+Microsoft Office 2007 Service Pack 2 (SP2)
+Microsoft Office 2007 Service Pack 2 (SP2)
+Microsoft Office 2007 Service Pack 2 (SP2)
+Microsoft Office 2007 Service Pack 2 (SP2)
+Microsoft Office Excel MUI (Russian) 2007 12.0.6425.1000
+Microsoft Office Outlook MUI (Russian) 2007 12.0.6425.1000
+Microsoft Office PowerPoint MUI (Russian) 2007 12.0.6425.1000
+Microsoft Office Proof (English) 2007 12.0.6425.1000
+Microsoft Office Proof (German) 2007 12.0.6425.1000
+Microsoft Office Proof (Russian) 2007 12.0.6425.1000
+Microsoft Office Proof (Ukrainian) 2007 12.0.6425.1000
+Microsoft Office Proofing (Russian) 2007 12.0.4518.1022
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Proofing Tools 2007 Service Pack 2 (SP2)
+Microsoft Office Shared MUI (Russian) 2007 12.0.6425.1000
+Microsoft Office Standard 2007 12.0.6425.1000
+Microsoft Office Word MUI (Russian) 2007 12.0.6425.1000
+Microsoft Office ??????????? 2007 12.0.6425.1000
+Microsoft Software Update for Web Folders  (Russian) 12 12.0.6425.1000
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 9.0.30729.6161
+NVIDIA Drivers
+OpenOffice.org 3.4.1 3.41.9593
+PDFCreator 1.1.0
+PowerBuilder 6.5 Deployment Kit
+Punto Switcher 3.2.8 3.2.8.94
+Radmin Server 3.2 3.20.0000
+Radmin Viewer 3.3 3.30.0000
+Realtek High Definition Audio Driver
+Safari 5.33.21.1
+Scan 10.1.0.0
+Security Update for 2007 Microsoft Office System (KB2288621)
+Security Update for 2007 Microsoft Office System (KB2288931)
+Security Update for 2007 Microsoft Office System (KB2289158)
+Security Update for 2007 Microsoft Office System (KB2344875)
+Security Update for 2007 Microsoft Office System (KB2345043)
+Security Update for 2007 Microsoft Office System (KB969559)
+Security Update for 2007 Microsoft Office System (KB976321)
+Security Update for CAPICOM (KB931906) 2.1.0.2
+Security Update for CAPICOM (KB931906) 2.1.0.2
+Security Update for Microsoft Office Excel 2007 (KB2345035)
+Security Update for Microsoft Office InfoPath 2007 (KB979441)
+Security Update for Microsoft Office PowerPoint 2007 (KB982158)
+Security Update for Microsoft Office PowerPoint Viewer (KB2413381)
+Security Update for Microsoft Office Visio Viewer 2007 (KB973709)
+Security Update for Microsoft Office Word 2007 (KB2344993)
+Security Update for Microsoft Office system 2007 (972581)
+Security Update for Microsoft Office system 2007 (KB974234)
+Setting Regional 1.00
+The KMPlayer (remove only)
+Update for 2007 Microsoft Office System (KB967642)
+Update for Microsoft .NET Framework 3.5 SP1 (KB963707) 1
+Update for Microsoft Office Outlook 2007 (KB2412171)
+Update for Outlook 2007 Junk Email Filter (KB2508979)
+WebFldrs XP 9.50.7523
+Windows Genuine Advantage Notifications (KB905474) 1.9.0040.0
+Windows Imaging Component 3.0.0.0
+Windows XP Service Pack 3 20080414.175805
+hppCLJCM2320 001.000.00071
+hppFaxUtilityCM2320 001.000.00069
+hppManualsCM2320 001.000.00071
+hppScanToCM2320 001.000.00068
+hppscanCM2320 001.000.00071
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????? ????????????????? Kaspersky Security Center 10.0.3361
+????????? ??????????? 6.0 ??? Windows Workstations 6.0.4.1424
+????????? WinRAR
