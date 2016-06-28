@@ -1,4 +1,4 @@
-Set objConnection = GetObject("WinNT://skaidc01/LanmanServer")
+Set objConnection = GetObject("WinNT://skaiac02/LanmanServer")
 Set colResources = objConnection.Resources
 
 For Each objResource in colResources

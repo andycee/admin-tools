@@ -1,7 +1,7 @@
 Описание инфраструктуры
 =======================
 
-1. 1С ставится без проблем батником с командой на тихую установку и psexec
+1. 1С, в основном используется через RemoteApp если принтер пользователя сетевой, с USB или расшареными принтерами проблема, не хочу захламлять серв дровами
 	1.1 Базы к ней подкидываются файликом со списком баз в директорию пользователя
 	1C для склада СПА идет с сканером штрих-кодов, поэтому надо установить выгрузку
 
@@ -33,7 +33,7 @@
 
 - Дрова
 - отключить файер
-- radmin
+- radmin + ключ
 - настройка времени (применить правку реестра только)
 - переименовать компьютер в соответствие с политикой именования ПК в сети
 - удалить старую запись из AD, если была
@@ -65,9 +65,13 @@
 -[при необходимости] RemoteApp 1C
 - Ошибка скрипта loggedon
 
+
+
 Настройка рабочей станции Win 7
 ===============================
--дрова
+
+-ОС и все драйверы
+-radmin 3.5 + ключ
 -настройка файера методом импорта дампа настроек
 -введение в домен
 -править реестр для подключения шар
@@ -75,7 +79,6 @@
 -активация
 -обновление отключить или настроить
 -отключить сон
--radmin 3.4
 -kaspersky agent
 -kaspersky через security center
 -Powershell setup (Set-ExecutionPolicy RemoteSigned, Enable-PSRemoting -Force)
@@ -90,3 +93,132 @@ Kaspersky
 
 1. Обновлять базы в инсталляционных пакетах касперского
 	заходим в удаленную установку, инсталляционные пакеты, ПКМ "обновить базы"
+2. Локальные задания на полную проверку настраиваются для каждой рабочей станции вручную.
+
+
+
+Файлы конфигураций:
+===================
+
+1. Конфиг Epitome клиента:
+	c:\winprog\ppm\app\epitome.ini
+
+2. Конфиг СРЧ125 считывателя СПА (четыре файла):
+	C:\SYMCOD.CFG\*.CFG
+
+3. Конфиг ReservationAssistant клиента:
+	C:\Ressys\ressys.properties
+	C:\Ressys\fmodule.ini
+
+4. Конфиг StoreHouse клиента:
+	HKLM\SOFTWARE\Wow6432Node\UCS\*
+
+5. Конфиг LibraIFC (сервер):
+	HKLM\SOFTWARE\Libra International\LIBRAifc\Interfaces\*
+
+6. Конфиг ipRAifc (сервер):
+	D:\ipRAifc\ifcServer.ini
+
+7. Конфиг VingCard (сервер):
+	E:\Program Files\VingCard\Vision\*.ini
+
+8. Конфиг HOMISCO (сервер):
+	10.0.14.3:HKLM\SOFTWARE\Libra Hostpitality\Homisco svc\
+
+
+
+Сетевые адаптеры:
+=================
+
+Realtek RTL8139/​810x Family Fast Ethernet NIC
+Realtek RTL8168/​8111 PCI-E Gigabit Ethernet NIC
+Realtek PCIe GBE Family Controller
+Atheros AR8152 PCI-E Fast Ethernet Controller
+Atheros AR9485WB-EG Wireless Network Adapter
+Atheros L1 Gigabit Ethernet 10/​100/​1000Base-T Controller
+Intel(R) 82566DM Gigabit Network Connection
+JMicron PCI Express Gigabit Ethernet Adapter
+
+
+
+Установка PS/WinRM на Windows XP:
+=================================
+
+psexec.exe \\wkai0013 cmd /c "xcopy \\10.0.14.253\share\content\powershell\*.* c:\"
+psexec.exe \\wkai0007 cmd /c c:\NetFx20SP1_x86.exe /quiet
+tasklist /S wkai0007 | find "msiexec.exe"
+psexec.exe \\wkai0007 cmd /c c:\WindowsXP-KB968930-x86-RUS.exe /quiet /log:c:\install.log
+tasklist /S \\wkai0007 | find "vapm.exe"
+psexec.exe -s \\wkai0007 cmd /c %SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe Enable-PSRemoting -Force
+psexec.exe -s \\wkai0007 cmd /c winrm set winrm/config/service @{AllowUnencrypted="true"}
+
+./request.py skaidc01 'cmd /c setspn -l wkai0007'
+./request.py skaidc01 'cmd /c setspn -A WSMAN/wkai0007 wkai0007'
+./request.py skaidc01 'cmd /c setspn -A WSMAN/wkai0007.Kaiserhof.heliopark.ru wkai0007'
+
+./request.py wkai0014 'cmd /c net start Transport'
+
+
+Полезные WMI запросы:
+=====================
+
+# список подключенных принтеров
+gwmi Win32_Printer -ComputerName wkai00006 | Format-List Name,PortName,PrinterState,PrinterStatus
+
+# список процессов с потреблением памяти и путем до файла
+gwmi Win32_Process -ComputerName wkai0091 | Format-List Description,PrivatePageCount,ExecutablePath
+
+# физический адрес основного сетевого адаптера
+gwmi -Class Win32_NetworkAdapterConfiguration | foreach {if ($_.DefaultIPGateway -eq "10.0.14.1" -or $_.DefaultIPGateway -eq "10.0.14.2") {Write-Host $_.MACAddress}}
+
+# удаление принтеров
+$printers = Get-WmiObject -Class Win32_Printer -ComputerName wkai014
+$printers | Foreach { if ($_.Name -eq "HP LaserJet M1522 MFP Series PCL 6"){$_.Delete()}}
+
+# список установленного ПО и методы установки и удаления
+$path = Read-host "Enter the UNC path including name of file>>>"  # my example: \\myserver\myshare\software\flash\install_flash_player_ax_11.4.402.265.exe
+$parameters = Read-host "Enter parameters or switches example: "/qn" -Wait>>>" # my example: -install
+$packageinstall=(split-path $path -leaf) + ' ' + $parameters # evaluates to: install_flash_player_ax_11.4.402.265.exe -install
+$computers = get-content c:\temp\computers.txt
+$computers | where{test-connection $_ -quiet -count 1} | ForEach-Object{
+
+copy-item $path "\\$_\c$\temp" # copy install file to the remote machine
+$newProc=([WMICLASS]"\\$_\root\cimv2:win32_Process").Create("C:\temp\$packageinstall")
+If ($newProc.ReturnValue -eq 0) { Write-Host $_ $newProc.ProcessId } else { write-host $_ Process create failed with $newProc.ReturnValue }
+
+}
+
+-------------------
+
+Start-Process -FilePath C:\Temp\7z920.msi -ArgumentList "/qn" -Wait
+#now for uninstall
+Get-WmiObject -Class Win32_Product | Where-Object {$_.Name -eq "7-Zip 9.20"} | foreach-object -process {$_.Uninstall()}
+
+# интеллектуальная передача больших файлов
+Import-Module BitsTransfer
+Start-BitsTransfer -Source C:\mail.wim -Destination \\10.0.14.253\share\BACKUP\mail.wim -Priority High
+
+# Установка VLC
+cmd /c "c:\vlc-2.2.4-win32.exe /L=1049 /S"
+
+Управление правами:
+===================
+
+$acl = Get-Acl c:\Winprog
+Invoke-Command -ComputerName wkai002 -ArgumentList $acl -ScriptBlock {Set-Acl c:\Winprog -AclObject $args[0]}
+
+
+
+Теневое резервное копирование:
+==============================
+
+Windows 7
+---------
+
+при помощи vssadmin
+или
+# WMI зарпос, формирование 
+$s1 = (gwmi -List Win32_ShadowCopy).Create("C:\", "ClientAccessible")
+$s2 = gwmi Win32_ShadowCopy | ? { $_.ID -eq $s1.ShadowID }
+$d  = $s2.DeviceObject + "\"
+cmd /c mklink /d C:\shadowcopy "$d"

@@ -1,7 +1,7 @@
 ﻿function Get-WindowsKey {
     ## function to retrieve the Windows Product Key from any PC
     ## by Jakob Bindslet (jakob@bindslet.dk)
-    param ($targets = "wkai002")
+    param ($targets = $Env:Computername)
     $hklm = 2147483650
     $regPath = "Software\Microsoft\Windows NT\CurrentVersion"
     $regValue = "DigitalProductId"

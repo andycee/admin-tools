@@ -1,0 +1,25 @@
+A Simple ExampleAn example of pcapdump usage is the following sequence:
+
+> pcapdump -size 1024 -start int
+> pcapdump -stop int
+> pcapdump -show
+> pcapdump -write int -filename=cap_int.cap
+> pcapdump -cleanup
+
+Going through this line by line we have:
+1. Recording is started for the int interface using a buffer size of 1024 Kbytes.
+> pcapdump -size 1024 -start int
+
+2. The recording is stopped for the int interface.
+> pcapdump -stop int
+
+3. The dump output is displayed on the console in a summarized form.
+> pcapdump -show
+
+4. The same information is written in its complete form to a file called cap_int.cap.
+> pcapdump -write int -filename=cap_int.cap
+
+At this point, the file cap_int.cap should be downloaded to the management workstation foranalysis.
+
+5. A final cleanup is performed and all memory taken is released.
+> pcapdump -cleanup

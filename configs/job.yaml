@@ -1,0 +1,28 @@
+- description: Zabbix agent
+  executionEnabled: true
+  loglevel: INFO
+  name: Install zabbix agent and smartctl binary
+  nodefilters:
+    dispatch:
+      excludePrecedence: true
+      keepgoing: true
+      rankOrder: ascending
+      threadcount: '1'
+    nodesSelectedByDefault: true
+  options:
+  - name: winrmPassword
+    secure: true
+    storagePath: keys/nero
+  scheduleEnabled: true
+  sequence:
+    commands:
+    - description: Create directory for zabbix agent
+      exec: powershell New-Item -ItemType directory -Path c:\zabbix-agent -Force
+    - description: Create directory for smartmontools
+      exec: powershell New-Item -ItemType directory -Path c:\smartmontools -Force
+    - description: Copy zabbix agent binary
+      exec: powershell Copy-Item -Path \\10.0.14.253\share\repository\soft\zabbix-agent\zabbix_agentd.exe c:\zabbix-agent\ -Force
+    - description: Copy zabbix agent config
+      exec: powershell Copy-Item -Path \\10.0.14.253\share\repository\soft\zabbix-agent\zabbix_agentd.conf c:\zabbix-agent\ -Force
+    keepgoing: true
+    strategy: node-first

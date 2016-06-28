@@ -1,17 +1,17 @@
 ####################################################
 # Change these values to the appropriate values in your environment
 
-$PrinterIP = "10.0.14.235"
+$PrinterIP = "10.0.14.229"
 $PrinterPort = "9100"
 $PrinterPortName = "IP_" + $PrinterIP
 $DriverName = "Kyocera ECOSYS M2030dn KX"
 $DriverPath = "\\skaidc01\shares\M2030dnx86"
 $DriverInf = "\\skaidc01\shares\M2030dnx86\OEMSETUP.INF"
-$PrinterCaption = "Kyocera Sales"
+$PrinterCaption = "Kyocera HR"
 ####################################################
 
 ### ComputerList Option 1 ###
-$ComputerList = @("wkai01011")
+$ComputerList = @("wkai0513")
 
 ### ComputerList Option 2 ###
 # $ComputerList = @()
